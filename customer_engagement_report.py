@@ -188,10 +188,17 @@ class CustomerEngagementReport:
     def _calculate_payment_frequency(self, payments: List[Dict]) -> float:
         """Calculate average time between payments for a customer."""
         if len(payments) > 1:
-            time_diffs = [(payments[i+1]['date'] - payments[i]['date']).days 
-                         for i in range(len(payments)-1)]
-            return sum(time_diffs) / len(time_diffs)
-        return float('nan')  # Return NaN if there are fewer than 2 payments
+            # Filter out 0-day differences as they're likely same-day payments
+            time_diffs = [
+                (payments[i+1]['date'] - payments[i]['date']).days 
+                for i in range(len(payments)-1)
+                if (payments[i+1]['date'] - payments[i]['date']).days > 0
+            ]
+            
+            # Return average only if we have valid time differences
+            if time_diffs:
+                return sum(time_diffs) / len(time_diffs)
+        return float('nan')  # Return NaN if there are fewer than 2 payments or no valid intervals
 
     def _calculate_overall_avg_payment_frequency(self) -> float:
         """Calculate overall average payment frequency for all payments."""
@@ -200,20 +207,21 @@ class CustomerEngagementReport:
         for customer in self.customers:
             all_payment_dates.extend([p['date'] for p in customer.payment_history])
 
-        # Debugging: Print all payment dates
-        print(f"All payment dates: {all_payment_dates}")
-
         if len(all_payment_dates) > 1:
             all_payment_dates.sort()
-            total_days = (all_payment_dates[-1] - all_payment_dates[0]).days
-            total_intervals = len(all_payment_dates) - 1
             
-            # Debugging: Print total days and intervals
-            print(f"Total days: {total_days}, Total intervals: {total_intervals}")
+            # Calculate time differences and filter out 0-day intervals
+            time_diffs = [
+                (all_payment_dates[i+1] - all_payment_dates[i]).days
+                for i in range(len(all_payment_dates)-1)
+                if (all_payment_dates[i+1] - all_payment_dates[i]).days > 0
+            ]
             
-            return total_days / total_intervals
+            # Return average only if we have valid time differences
+            if time_diffs:
+                return sum(time_diffs) / len(time_diffs)
 
-        return float('nan')  # Return NaN if there are fewer than 2 payments
+        return float('nan')  # Return NaN if there are fewer than 2 payments or no valid intervals
 
     def generate_report(self) -> str:
         """Generate JSON report with engagement analysis."""

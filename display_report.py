@@ -370,7 +370,6 @@ def main():
                     
                     # Payment Patterns Visualization
                     st.markdown("<div style='margin: 2rem 0;'></div>", unsafe_allow_html=True)
-                    st.subheader("Payment Patterns")
                     
                     payment_pattern = px.scatter(
                         df,
