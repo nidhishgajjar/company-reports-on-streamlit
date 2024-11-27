@@ -191,6 +191,47 @@ def main():
             border-radius: 0.75rem;
             margin: 0.5rem 0 1rem 0;
         }
+        
+        /* Segment header styling */
+        .segment-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #f5f5f7;
+        }
+        
+        .segment-title {
+            font-size: 1.2rem;
+            color: #1d1d1f;
+            margin: 0;
+            padding-right: 0.5rem;
+        }
+        
+        .segment-description {
+            font-size: 0.9rem;
+            color: #86868b;
+            font-weight: normal;
+            margin: 0;
+        }
+        
+        /* Sticky tabs with integrated descriptions */
+        .stTabs [data-baseweb="tab-panel"] {
+            padding-top: 0;
+        }
+        
+        .stTabs [data-baseweb="tab"] {
+            padding: 1rem 1.5rem;
+            background-color: #f5f5f7;
+            border-radius: 0.5rem;
+            position: relative;
+        }
+        
+        .stTabs [data-baseweb="tab-list"] {
+            background-color: white;
+            padding: 0.5rem 0;
+            margin-bottom: 0;
+        }
         </style>
     """, unsafe_allow_html=True)
     
@@ -271,26 +312,14 @@ def main():
             "Critical Follow-up"
         ]
         
-        segment_descriptions = {
-            "Stable Customers": "Regular customers with consistent payment patterns",
-            "Needs Attention": "Customers showing early signs of irregular payment patterns",
-            "Critical Follow-up": "Customers requiring immediate engagement due to significant changes in payment behavior"
-        }
-        
         for tab, segment in zip(tabs, segments):
             with tab:
                 segment_customers = report_data['segments'].get(segment, [])
                 if segment_customers:
-                    # Use the new segment-description class
-                    st.markdown(f"""
-                        <div class='segment-description'>
-                            {segment_descriptions[segment]}
-                        </div>
-                    """, unsafe_allow_html=True)
-                    
                     df = pd.DataFrame(segment_customers)
                     
-                    # Reduce spacing between sections
+                    # Segment Overview with added top margin
+                    st.markdown("<div style='margin-top: 1.5rem;'></div>", unsafe_allow_html=True)
                     overview_cols = st.columns(3)
                     
                     with overview_cols[0]:
@@ -319,9 +348,8 @@ def main():
                         """.format(avg_frequency if pd.notna(avg_frequency) else 0), unsafe_allow_html=True)
                     
                     # Customer Details Table
-                    st.markdown("<div style='margin: 2.5rem 0;'></div>", unsafe_allow_html=True)
+                    st.markdown("<div style='margin: 2rem 0;'></div>", unsafe_allow_html=True)
                     st.subheader("Customer Details")
-                    
                     display_columns = [
                         'name', 'email', 'total_spend', 'transaction_count',
                         'payment_frequency_days', 'days_since_last_payment',
@@ -341,7 +369,7 @@ def main():
                         )
                     
                     # Payment Patterns Visualization
-                    st.markdown("<div style='margin: 2.5rem 0;'></div>", unsafe_allow_html=True)
+                    st.markdown("<div style='margin: 2rem 0;'></div>", unsafe_allow_html=True)
                     st.subheader("Payment Patterns")
                     
                     payment_pattern = px.scatter(
