@@ -1,0 +1,315 @@
+SUMMARY STATISTICS - Disengaged Customers
+Metric,Value
+Report Period,Past 3 months
+Generation Date,2024-11-26 16:42:07
+Total Customers,471
+Active Recent Customers,165
+Historical Only Customers,303
+Disengaged Customers,303
+Total Disengaged Value,$166,843.92
+
+CUSTOMER DETAILS
+rank,customer_id,email,name,total_spend,transaction_count,last_payment_amount,last_payment_date,last_payment_method
+8,cus_LgoAo3c8BUNWIB,contactus@makeafuture.ca,Make a Future - BC Public Schools - Bâtir un avenir - BC Public Schools,6279.0,15,1501.5,2024-08-20 17:02:41,Unknown
+16,cus_Lh5gt6oK1WD2vP,bmokas@bmokascpa.com,Billy Mokas,2934.75,5,1008.91,2024-05-10 07:52:33,Unknown
+24,cus_Lh6paWZnPLUNwe,hl.wuong@addendacapital.com,Addenda Capital inc.,2299.51,5,517.39,2024-06-11 12:12:01,Unknown
+27,cus_Lh7QO3W4gaho52,employ@sl.on.ca,St. Lawrence College,2203.5,6,367.25,2024-06-10 07:25:42,Unknown
+28,cus_LgtJPctQX5SRxu,c.campeau@papilloncpa.com,Papillon & Associés inc.,2075.3,3,287.44,2024-06-01 09:17:43,Unknown
+32,cus_MTp4LfWDMgPut4,jf.ouellet@conscience-rh.com,Les Soeurs des Saints Noms de Jésus et Marie,1983.33,3,661.11,2024-04-29 06:29:00,Unknown
+39,cus_QZ1WTdiARxlrKJ,c.hegarty@danieli.com,Danieli Corporation,1755.0,2,1430.0,2024-07-29 07:33:51,Unknown
+40,cus_P6pGD5or4oHpMm,renza.vissa@nu-b.com,nu-b inc.,1644.14,1,1644.14,2023-12-07 11:20:43,Unknown
+43,cus_MZ4g3saMAU9nVW,people@ntirety.com,Ntirety,1501.5,1,1501.5,2024-01-04 13:58:26,Unknown
+46,cus_Lgo7ZkbNnBd30X,achampagne@fasken.com,FMD Services Limited  Partnership - Société en commandite Services FMD,1494.68,4,373.67,2024-08-20 12:30:33,Unknown
+47,cus_Lgr5YyeYKXycqG,dotation@ville.terrebonne.qc.ca,Ville de Terrebonne,1494.68,4,373.67,2024-06-11 12:13:17,Unknown
+49,cus_NWxytQfSlfxd5n,leslie.purdon@thunderbay.ca,City of Thunder Bay,1469.0,4,367.25,2024-07-11 13:34:19,Unknown
+50,cus_MbRm21Ym27E2mh,kblair@yorkschool.com,The York School,1469.0,4,367.25,2024-04-10 17:59:00,Unknown
+51,cus_PBNJDgZSL0xUIc,alwaysinvogue.info@gmail.com,The New Vogue Furriers Limited - Always in Vogue,1382.88,2,373.75,2024-02-09 19:31:15,Unknown
+52,cus_Lh6I3TkidaJWo1,algobeil@ledevoir.com,Le Devoir,1382.58,2,1008.91,2024-04-10 13:28:48,Unknown
+56,cus_NxJNdwdWzWDgh4,careers@baptisthousing.org,Sam Ferraro,1262.63,2,921.38,2024-06-27 12:46:12,Unknown
+57,cus_LgpGTj7ot001X3,claudine.racette@larochellegc.com,Larochelle Groupe Conseil,1242.24,3,414.08,2024-08-06 05:27:05,card - visa ending in 5731
+59,cus_NicELAHks27oGP,dent2005@hotmail.com,Clinique dentaire Saba,1152.63,2,143.72,2024-07-31 13:27:21,Unknown
+61,cus_M8XnETROdtinQx,morganne.foley@mcinnescooper.com,Foley,1121.25,3,373.75,2024-05-23 12:54:17,Unknown
+63,cus_LgsoOREAkFwdat,drh@oiiq.org,Ordre des infirmières et infirmiers du Québec,1121.01,3,373.67,2024-08-19 10:51:30,Unknown
+64,cus_Lgv15fTQld1PXX,emploi@tv5.ca,TV5 Québec Canada,1121.01,3,373.67,2024-08-09 11:38:57,Unknown
+67,cus_PQd7nOY7DHFtO5,carine@cliniquept.ca,Clinique d’ophtalmologie Dr Pierre Trottier,1034.78,2,517.39,2024-05-24 07:09:08,Unknown
+68,cus_Lh6MLWLzHf05EA,dolivier@scadalliance.com,Scadalliance Corporation,1034.78,2,517.39,2024-03-14 05:30:09,Unknown
+69,cus_LgwEtj5XZbDUvl,natasha@carworx.net,Andrew Kost,1034.78,2,517.39,2024-02-08 08:28:28,Unknown
+73,cus_LgwMJrPYGKeUmP,ben.surby@ahs.ca,Ben Surby,1023.75,3,341.25,2024-08-23 10:42:14,Unknown
+74,cus_NFSKBtfpHS4bVt,brice@raccoonentertainment.com,Racoon Entertainment Ltd,1023.75,3,341.25,2024-05-07 16:49:22,Unknown
+75,cus_Lh5lCThH3d8MvN,mark@legacybowes.com,Legacy Bowes,1023.75,3,341.25,2024-05-02 09:01:33,Unknown
+76,cus_Lh4sdzApHRVPTW,hdzida@urbansystems.ca,Urban Systems Ltd.,1023.75,3,341.25,2024-03-15 14:46:15,Unknown
+77,cus_Lh6jRznimJc1RS,andrea.zuliani@lcieducation.com,LCI Education - LCI Éducation,1008.91,1,1008.91,2024-06-04 05:03:14,Unknown
+78,cus_Lh6gzXLSetmXek,cv@actactuaires.com,ACT actuaires,1008.91,1,1008.91,2024-05-15 12:13:46,Unknown
+79,cus_LhxXNNlfB8JclW,emploi@chad.qc.ca,Chambre de l'assurance de dommages,1008.91,1,1008.91,2024-03-25 10:22:17,Unknown
+80,cus_N3oKmtQe0rd3y6,iiniquez@otimroepmq.ca,OTIMROEPMQ,1008.91,1,1008.91,2024-02-25 17:25:19,Unknown
+81,cus_Lh52traLWilsiC,dotation@crosemont.qc.ca,Collège de Rosemont,1008.91,1,1008.91,2024-02-01 12:19:40,Unknown
+82,cus_NJUDYaPrdUrPhg,Recrutement@sodec.gouv.qc.ca,Société de développement des entreprises culturelles,1008.91,1,1008.91,2024-01-19 12:05:23,Unknown
+84,cus_QfmCTwo0vn1sjo,marc.yarascavitch@gmail.com,Marc Edward Yarascavitch,991.58,1,991.58,2024-08-16 10:19:02,Unknown
+85,cus_Lks9GXpglG2ARC,jdavid@markanthony.com,Jopie David,991.58,1,991.58,2024-03-19 14:01:32,Unknown
+93,cus_QVnSwGCfPlWQ4j,laventure.kim.csi@ssss.gouv.qc.ca,Centre,891.06,2,517.39,2024-08-26 05:42:26,Unknown
+96,cus_Lh6mYTmTdzwbXg,huronhr@huron.uwo.ca,Huron at Western University,875.75,2,508.5,2024-02-14 09:27:07,Unknown
+97,cus_NkSGajVLJzJ41i,marketing@agencesolumed.com,SOLUMED INC.,804.83,1,804.83,2024-06-06 10:53:03,Unknown
+98,cus_PbrH9A5CbUSykm,olivo690@yahoo.com,Résidence pour aînés Confidentielle,804.83,3,143.72,2024-03-07 08:53:37,Unknown
+99,cus_OIwvInOr2gTPXQ,rh@promec.ca,Groupe Promec,804.82,2,402.41,2024-01-09 07:08:27,Unknown
+102,cus_Lh6SIK76NkXgvS,aubeths@halifax.ca,Halifax Regional Municipality,747.5,2,373.75,2024-04-26 06:03:10,Unknown
+112,cus_LgrsXnigQZ0QoH,catherine.guerard@csn.qc.ca,C S N,747.34,2,373.67,2024-07-15 12:42:59,Unknown
+113,cus_MKrNCP9fHJ1YUK,Marketing_rh@cnesst.gouv.qc.ca,"commission des normes, de l'équité, de la santé et de la sécurité du travail",747.34,2,373.67,2024-07-15 06:44:26,Unknown
+114,cus_Lgr4RXdtWrs71t,eboisclair@soprema.ca,Soprema,747.34,2,373.67,2024-06-28 05:14:01,Unknown
+115,cus_LgvsTNsTFWy3OR,iproulx@ficodis.ca,Ficodis Inc.,747.34,2,373.67,2024-06-20 11:52:54,Unknown
+116,cus_Lh7SXRtPtj6cfs,Dotation@clg.qc.ca,Collège Lionel-Groulx,747.34,2,373.67,2024-06-03 07:54:33,Unknown
+117,cus_Lh5lIoL5dzPiEN,ambeliveau@elementsrh.ca,Elements RH,747.34,2,373.67,2024-05-13 10:56:41,Unknown
+118,cus_PVSwAhTxkekKiD,rh@groupecdh.com,Groupe CDH,747.34,2,373.67,2024-05-08 13:08:37,Unknown
+119,cus_Q1mF6wc20B7DO9,melina@levesqueroy.com,Levesque Roy Conseil Inc.,747.34,2,373.67,2024-05-01 12:35:01,Unknown
+120,cus_PUSEJDDV9Q12bd,info@gremm.org,GREMM,747.34,2,373.67,2024-03-20 11:08:06,Unknown
+121,cus_LtVqaYjULEJ6vI,cpatenaude@residencessoleil.ca,Les Résidences Soleil,747.34,2,373.67,2023-12-13 12:35:58,Unknown
+122,cus_PeXb94mt44q1Br,Brenda.Lemal@northernhealth.ca,Northern Health,735.0,2,131.25,2024-03-26 08:29:13,Unknown
+129,cus_QMkKymTJ5I08dD,applications@patersoncomposites.ca,Beatriz Catelani Dias,734.5,2,367.25,2024-08-05 12:36:48,Unknown
+130,cus_PgoqWKXmR5CUTw,sofia.amin@serefin.com,Serefin,734.5,2,367.25,2024-06-10 13:56:16,Unknown
+131,cus_PfzGlEczDVLqgQ,hr@quintewest.ca,City of Quinte West,734.5,2,367.25,2024-04-19 12:37:58,Unknown
+132,cus_Lgvj0AvQ8b9DU3,hr.recruitment@queensu.ca,Queen's University,734.5,2,367.25,2024-02-29 07:49:15,Unknown
+133,cus_Lh6Uwi2h0cML4U,sheri.mcconnery@northbay.ca,City of North Bay,734.5,2,367.25,2024-02-09 11:42:24,Unknown
+138,cus_LguF7jf9yVeP7k,careers@capitalpower.com,Capital Power,682.5,2,341.25,2024-08-28 15:28:59,Unknown
+139,cus_Q9CHOGS3IFNhWr,ilian.descamps@stjo-plouescat.fr,Collège Privé Saint Joseph,682.5,2,341.25,2024-05-22 00:11:52,Unknown
+140,cus_Pqt47u3lNIbs1V,nmorton@staff.nstu.ca,Nova Scotia Teachers Union,661.25,1,661.25,2024-04-03 11:07:21,Unknown
+142,cus_QiTABujeOguRkr,ilegresley@mmssa.org,Les Soeurs de Sainte-Anne du Québec,661.11,1,661.11,2024-08-23 12:01:24,Unknown
+143,cus_PnuC8HUT6LjbAO,jf.ouellet@conscience-rh.com,Les Soeurs Servantes du Saint-Coeur de Marie,661.11,1,661.11,2024-03-25 11:41:18,Unknown
+144,cus_Lh7Cx9hSlYvicv,sabrina@bravomusique.com,Sabrina Cousineau,661.11,1,661.11,2024-02-10 06:05:24,Unknown
+146,cus_PkAhCa90rRZhih,hr@doctorshospitalcayman.com,Doctors Hospital,650.0,2,325.0,2024-03-15 13:21:17,Unknown
+147,cus_Lh6sIfXJKzKc7j,nchampis@questchc.ca,Quest CHC,649.75,1,649.75,2024-04-15 09:13:25,Unknown
+148,cus_Ptw1SsgCrnLkPq,debravalcraig@gmail.com,Kettleman's Bagel Co.,649.75,1,649.75,2024-04-10 13:59:34,Unknown
+158,cus_QejL7L7JPrDuzw,meryam@finasource.co,FINASOURCE,517.39,1,517.39,2024-08-13 12:01:28,Unknown
+159,cus_P62frJa44Fs9lc,cchabot@lunerouge.com,Groupe Lune Rouge,517.39,1,517.39,2024-07-29 06:48:23,Unknown
+160,cus_QWolNbLsd6fMds,rh@omniusgroup.ca,OMNIUS INC.,517.39,1,517.39,2024-07-23 09:08:11,Unknown
+161,cus_QFD2eGg8J0zJ96,patricia.michaud@plaza.ca,Plaza REIT,517.39,1,517.39,2024-06-06 09:12:36,Unknown
+162,cus_QCZzpyKjL7HwYx,finances@tripleboris.com,Triple Boris inc.,517.39,1,517.39,2024-05-30 09:58:19,Unknown
+163,cus_Q9ASj6tMlaSfM7,recrutement@promutuel.ca,Promutuel,517.39,1,517.39,2024-05-21 06:16:25,Unknown
+164,cus_PwZxGxmQDZGILh,bethany.lamorre@vetio.com,Vetio Sante Animale - Vetio Animal Health Canada,517.39,1,517.39,2024-04-17 15:25:41,Unknown
+165,cus_PuGRRwkJPB7FMX,claudia.guerette@intermat.ca,Intermat,517.39,1,517.39,2024-04-11 11:36:25,Unknown
+166,cus_PqrK8LtRDwG5EC,info@lamdd.org,La Maison du développement durable,517.39,1,517.39,2024-04-02 09:00:37,Unknown
+167,cus_OawNC2hcaYYj3n,vcaron@tink.ca,Tink Profitabilité Numérique,517.39,1,517.39,2024-03-08 07:31:51,Unknown
+168,cus_PXbMT7EVisASb8,odile.fortier@logiag.com,Logiag,517.39,1,517.39,2024-02-10 22:12:28,Unknown
+169,cus_LgvDrpGz5gghS5,painchaud.c@videotron.ca,La Carte RH,517.39,1,517.39,2024-02-09 07:00:35,Unknown
+170,cus_PTbQ14IkepBxH4,rh@veronneau.com,Décors Véronneau,517.39,2,143.72,2024-01-31 10:37:39,Unknown
+171,cus_LgwVXaLGn1TKm4,ress.humaines@cegeptr.qc.ca,Cégep de Trois-Rivières,517.39,1,517.39,2024-01-30 10:26:45,Unknown
+172,cus_PPDFLS6Ueb4JkZ,mj@ravencapitalpartners.com,Raven Indigenous Capital Partners,517.39,1,517.39,2024-01-19 12:48:55,Unknown
+173,cus_PJBfS9sIl4HxF2,rkutschera@ca-multisports.com,Groupe,517.39,1,517.39,2024-01-05 12:32:19,Unknown
+174,cus_PBGSCRjek79HxR,tanya.sirois@rcaaq.info,Regroupement des centres d'amitié autochtones du Québec,517.39,1,517.39,2023-12-13 07:53:26,Unknown
+182,cus_NWKv3EL9TwKXoj,hrteam@centretownchc.org,Centretown Community Health Centre,508.5,1,508.5,2024-08-20 13:03:54,Unknown
+183,cus_QRyJ2WFU3VmP9s,saera@capitalservices.ca,Capital Services,508.5,1,508.5,2024-07-10 10:37:07,Unknown
+184,cus_Pvm3I7Naegl8O0,tamara@spartanwellness.ca,Spartan Wellness,508.5,2,141.25,2024-04-15 13:00:40,Unknown
+185,cus_LgqxKhpSRQJZDF,accountspayable@cpac.ca,Cable Public Affairs Channel - La Chaîne d’affaires publiques par câble,508.5,1,508.5,2024-02-26 05:54:45,Unknown
+186,cus_OB3sVsbYFHu3FR,slehman@muskokalakes.ca,Township of Muskoka Lakes,508.5,1,508.5,2024-02-08 11:45:15,Unknown
+187,cus_PQLcjCIxj2nS1e,bthidrickson@kenora.ca,The City of Kenora,508.5,1,508.5,2024-01-22 13:29:16,Unknown
+188,cus_PONd1O0TV80cfc,nate.tysdal@rhf-frh.ca,Fondation Rideau Hall - Rideau Hall Foundation,508.5,1,508.5,2024-01-17 08:51:21,Unknown
+189,cus_POMekFjLaoaoc2,juan.rivalles@sinesss.org.pe,sinesss.org,508.5,1,508.5,2024-01-17 06:28:16,Unknown
+190,cus_PHDJevxYumJASD,tmitchell@embark.ca,Embark Student Corp.,508.5,1,508.5,2023-12-29 04:16:26,Unknown
+194,cus_QErKiyr4IVcoEi,croberge@avialta.com,Avialta Helicopter Maintenance Ltd,472.5,1,472.5,2024-06-26 10:36:25,Unknown
+195,cus_QESCyDLeX9D6Cz,info@DragonflyDelightsTeaRoom.com,Dragonfly Delights Tea Room,472.5,1,472.5,2024-06-04 08:41:07,Unknown
+196,cus_Q6FYlX9TILBDYa,Margot@ShyloHomeHealthcare.ca,Shylo Home Healthcare,472.5,1,472.5,2024-05-13 10:59:43,Unknown
+197,cus_Pzqk9Wbqbtmdyy,hr@sawchukdevelopments.com,Sawchuk Developments Co. Ltd.,472.5,1,472.5,2024-04-26 08:55:24,Unknown
+198,cus_PtwSu9PeyLHytg,tony@lbh.ca,LBH Building Centre,472.5,1,472.5,2024-04-10 14:31:54,Unknown
+199,cus_PtDyhMPXQNmddw,Jennifer.Bono@westfraser.com,Vance Langford,472.5,1,472.5,2024-04-08 16:29:24,Unknown
+200,cus_Pg6TvvsEd5pUjt,resumes@dcbank.ca,Langford Law,472.5,1,472.5,2024-03-04 14:53:24,Unknown
+201,cus_PTfoo8aEF8gtVa,ashermack@radiology.ca,Mayfair Diagnostics,472.5,1,472.5,2024-01-31 10:28:21,Unknown
+202,cus_PSx9IXUs9q3YT4,audrey@emc2events.com,Audrey Duits,472.5,1,472.5,2024-01-29 14:20:29,Unknown
+203,cus_POpNeO0hyTrK1E,michaelfischer@hairdesign.fr,hair design group,472.5,1,472.5,2024-01-18 12:01:15,Unknown
+204,cus_PL4E5vRWhrSlXq,kataneh@kasahr.com,KasaHR Consulting,472.5,1,472.5,2024-01-08 11:07:32,Unknown
+205,cus_PJC93nrfuT1TVp,karen.betts@meridianrehab.ca,Meridian Rehabilitation Consulting,472.5,1,472.5,2024-01-03 11:15:04,Unknown
+206,cus_QNX5lKoRgTtj3a,maia.miller@evenuplaw.com,EvenUp,450.0,1,450.0,2024-06-28 14:18:33,Unknown
+207,cus_Lh6P4sE3CWV14W,michelle.mclean@wsask.ca,Water Security Agency,450.0,1,450.0,2024-03-12 15:33:50,Unknown
+208,cus_PJ4jpcL4so8AG7,kristen.wakeford@advaraheartcare.com,Advara HeartCare,450.0,1,450.0,2024-01-03 03:37:27,Unknown
+214,cus_QTN4jNv3MwYrL7,detry@carvogroup.com,CARVO GROUP,373.75,1,373.75,2024-07-14 04:34:11,Unknown
+215,cus_QEGCFuhirP1Nrn,jodie@eastnd.ca,EASTND Naturopathic Centre & IV Lounge,373.75,1,373.75,2024-06-03 20:14:14,Unknown
+216,cus_P3bK2iH3FxyOPg,gordhealey.tcglendingcenters@gmail.com,NEWFOUND MORTGAGE PROFESSIONALS INC.,373.75,1,373.75,2024-05-03 16:04:04,Unknown
+217,cus_PyJ2H5nJrDnqwx,epirnie@royerthompson.com,Royer Thompson Management and Human Resources Consulting,373.75,1,373.75,2024-04-22 06:01:50,Unknown
+218,cus_Pk8m0zBp5cB5Sf,kim.collier@mcinnescooper.com,Kim Collier,373.75,1,373.75,2024-03-15 10:27:21,Unknown
+219,cus_PU40GnalSqEq5e,morganne.foley@mcinnescooper.com,McInnes Cooper,373.75,1,373.75,2024-02-01 11:29:11,Unknown
+248,cus_QkKHOBkQZZW0tR,comptabilite@secure-exchanges.com,Secure Exchanges,373.67,1,373.67,2024-08-28 10:35:59,Unknown
+249,cus_QjZGcfolSAqnmY,marie-claude@voyages-lambert.com,Voyages Lambert Inc.,373.67,1,373.67,2024-08-26 11:57:12,Unknown
+250,cus_P0qubDndMURuNV,recrute@rhrexpert.com,RHR Expert,373.67,1,373.67,2024-08-20 07:34:08,Unknown
+251,cus_Lh58deMzOLrWmm,rh@traditours.com,Voyages Traditours,373.67,1,373.67,2024-08-19 11:33:39,Unknown
+252,cus_QUYO9AakBUVggX,mleger@archivesmic.com,Soeurs missionnaires de l'Immaculée-Conception - Missionary Sisters of the Immaculate Conception,373.67,1,373.67,2024-08-14 08:24:05,Unknown
+253,cus_NLpkJWOBtie2ej,ressources.humaines@stbruno.ca,Ville de Saint-Bruno-de-Montarville,373.67,1,373.67,2024-08-09 08:10:50,Unknown
+254,cus_QcsfJvOp8dFBPK,schaput@sojecci.com,Lucilab Inc.,373.67,1,373.67,2024-08-08 14:11:04,Unknown
+255,cus_Lh5ud1RfV6TjHU,comptable@artesaconcept.com,Artesa,373.67,1,373.67,2024-08-08 11:40:19,Unknown
+256,cus_Lh6mdxTTNxDMjK,manon.blier@cegepmontpetit.ca,Cégep Édouard-Montpetit,373.67,1,373.67,2024-08-08 10:52:12,Unknown
+257,cus_Lgrcu4IOj04bIw,rnajean@ccmm.ca,Chambre de commerce du Montréal métropolitain,373.67,1,373.67,2024-08-07 09:15:50,Unknown
+258,cus_LgsLp6YtZfnnCq,kduffy@quantum.ca,Quantum,373.67,1,373.67,2024-07-29 08:47:53,Unknown
+259,cus_QZ1i4vdjRWN73V,stephane@symbiosevins.com,Symbiose,373.67,1,373.67,2024-07-29 06:35:29,Unknown
+260,cus_Lh7RkKKlPwInT6,recrutement@fqm.ca,Fédération québécoise des municipalités,373.67,1,373.67,2024-07-22 10:40:09,Unknown
+261,cus_QVKdBZVTx1ajCa,offreemploi@moulinsdesoulanges.com,Les Moulins de Soulanges,373.67,1,373.67,2024-07-19 10:02:48,Unknown
+262,cus_MUARWV3FoyC7pf,frederique.leblanc-normand@groupeblanchette.com,Groupe Blanchette,373.67,1,373.67,2024-07-18 13:51:30,Unknown
+263,cus_Nkds47Sbd7eaHw,rh@fmsq.org,Fédération des médecins spécialistes du Québec,373.67,1,373.67,2024-07-03 09:50:30,Unknown
+264,cus_QNQQpOUCfZSOsg,info@eskairamenagement.com,Eskair Aménagement Inc,373.67,1,373.67,2024-06-28 10:26:34,Unknown
+265,cus_QKZ0t0nsnaRmmT,remidijoux@hfdt.ca,HAMEL FRAPPIER DUPUIS TÉTRAULT SENCRL,373.67,1,373.67,2024-06-25 07:40:00,Unknown
+266,cus_QFeuO2jJCmtzAK,nadia.boyer@elper.pro,Elper,373.67,1,373.67,2024-06-25 06:50:01,Unknown
+267,cus_QJI113PGkqwLrF,meryemelmaaroufi@viaconseil.ca,Éducation internationale - Québec métiers d'avenir,373.67,1,373.67,2024-06-17 06:51:44,Unknown
+268,cus_QGiItI3uCLko5U,julie@billieleid.com,Boutique Billie le kid,373.67,1,373.67,2024-06-10 09:47:50,Unknown
+269,cus_Lh5mFdsYD3ueqk,tkaragopian@leger360.com,Leger - Léger,373.67,1,373.67,2024-06-07 09:57:29,Unknown
+270,cus_Lh611U1aJw8Xqk,amidouin@groupemontoni.com,Alexandra Midouin,373.67,1,373.67,2024-06-06 06:59:50,Unknown
+271,cus_NPvjagFmBHSio9,emilie.trempe@vooban.com,Vooban,373.67,1,373.67,2024-06-05 08:33:18,Unknown
+272,cus_QE9JsVwHUqkRAW,jf.monette@gingrasmonette.ca,Services Financiers Gingras Monette,373.67,1,373.67,2024-06-03 13:01:27,Unknown
+273,cus_QA1cdWH7YAVtFG,aprovost@woods.qc.ca,Gestion Cabinet Woods inc.,373.67,1,373.67,2024-05-31 11:43:55,Unknown
+274,cus_QCcysVUTaf4gC1,ncalle@osj.qc.ca,L’Oratoire Saint-Joseph du Mont-Royal,373.67,1,373.67,2024-05-30 11:34:36,Unknown
+275,cus_QAe9JRgWw3WwYz,patricia.saucier@fcnq.ca,Tarquti Energy,373.67,1,373.67,2024-05-29 11:56:54,Unknown
+276,cus_QCFPtm83cDMFH3,sbezeau@cliniquesante360.com,Clinique Santé 360,373.67,1,373.67,2024-05-29 11:23:39,Unknown
+277,cus_QCEx9btAdcTCff,etienne.rivard@infrastructel.com,INFRASTRUCTEL,373.67,1,373.67,2024-05-29 10:47:11,Unknown
+278,cus_Q6eKCw5Zfyz23C,anne-marie.lemire@cliniqueinfirmiere.ca,Clinique Infirmière Nord-Ouest,373.67,1,373.67,2024-05-27 08:21:37,Unknown
+279,cus_Q7OtzubLcn0RyR,info@mrcvr.ca,MRC de La Vallée-du-Richelieu,373.67,1,373.67,2024-05-16 12:39:04,Unknown
+280,cus_Lh6VVF3Awa8XoA,chloe.grandmaison@irsst.qc.ca,Instit - Institut de recherche Robert-Sauvé en santé et en sécurité du travail (IRSST),373.67,1,373.67,2024-05-16 12:35:06,Unknown
+281,cus_Q76P4ob1wfZ94J,marco.archambault@lagateliere.com,La Gâtelière,373.67,1,373.67,2024-05-15 17:39:57,Unknown
+282,cus_Q4PKGWSQqRJjxy,servicesrhmirabel@bh.com,Bell Textron Canada Ltée,373.67,1,373.67,2024-05-14 09:45:50,Unknown
+283,cus_Q4XOhrLqYwFdG4,maral@human1st.ca,HUMAN1ST,373.67,1,373.67,2024-05-08 21:24:10,Unknown
+284,cus_Q3uOY0d72mau2P,slevasseur@leblancnotaires.com,Leblanc et associés notaires inc.,373.67,1,373.67,2024-05-08 05:57:58,Unknown
+285,cus_Q29WvNulr8AFnn,reven@sodavex.com,Sodavex,373.67,1,373.67,2024-05-02 13:33:54,Unknown
+286,cus_Lh6rZ4aVdhYDbG,marine.hacquart@groupeageco.ca,Groupe AGÉCO,373.67,1,373.67,2024-04-26 11:34:51,Unknown
+287,cus_Pwz4z4u3DtEqPc,claudia.beaudin@attraitmignon.com,Centre de la petite enfance l'Attrait mignon,373.67,1,373.67,2024-04-18 17:24:03,Unknown
+288,cus_Lh4x9i3PHh6VcB,melissa.charlebois@hema-quebec.qc.ca,Héma-Québec,373.67,1,373.67,2024-04-16 10:46:50,Unknown
+289,cus_Lh56bXbKeMdqlX,gpetit@genomequebec.com,Guillaume Petit,373.67,1,373.67,2024-04-15 13:22:37,Unknown
+290,cus_Lh6fgKGQAPhbDV,david.pereira@cerbaresearch.com,CIRION BioPharma Research Inc. - CIRION BioPharma Recherche inc.,373.67,1,373.67,2024-04-12 11:45:35,Unknown
+291,cus_PtSvPuTEqdtNw3,nathalie.veillet@porttr.com,Administration portuaire de Trois-Rivières,373.67,1,373.67,2024-04-12 08:36:54,Unknown
+292,cus_Lh6HV5K4DcMGs6,stephanie.st.pierre@cegep-lanaudiere.qc.ca,Cégep régional de Lanaudière,373.67,1,373.67,2024-04-11 13:11:02,Unknown
+293,cus_Lh6CRUR1Q2tru8,jfp@moquinamyot.com,Moquin Amyot Inc.,373.67,1,373.67,2024-04-09 12:56:24,Unknown
+294,cus_PoHIzm3Ohtn82I,mjcossette@univesta.ca,Univesta Assurances,373.67,1,373.67,2024-03-28 10:35:30,Unknown
+295,cus_Lh5loOFG9DEsD6,aaguiar@umq.qc.ca,UMQ - UMQ - Union des municipalités du Québec,373.67,1,373.67,2024-03-25 12:55:19,Unknown
+296,cus_OkGSkpxT1rEfR6,info@marcillaud.ca,Groupe Marcillaud Inc,373.67,1,373.67,2024-03-25 08:49:01,Unknown
+297,cus_Pnqc9UBgOaTMzg,al@galileopartners.ca,Jean Coutu,373.67,1,373.67,2024-03-25 08:01:10,Unknown
+298,cus_Lgv89cLCae4B4l,jcournoyer@cvm.qc.ca,Cégep du Vieux Montréal,373.67,1,373.67,2024-03-15 13:25:40,Unknown
+299,cus_Pjjt6FUPtiM2mn,cynthia.zito@recrutementsignature.ca,Recrutement Signature,373.67,1,373.67,2024-03-14 09:00:46,Unknown
+300,cus_Lgv4gJVTkAhvzn,ressources.humaines@airmedic.net,Airmedic,373.67,1,373.67,2024-03-14 05:39:45,Unknown
+301,cus_Lh7IRbS6mmJd7Y,genevieve.bergeron@uniboard.com,Uniboard,373.67,1,373.67,2024-03-06 10:57:46,Unknown
+302,cus_LkuJutzbzOYQLA,acquisition.talents.cemtl@ssss.gouv.qc.ca,Centre intégré universitaire de santé et de services sociaux de l'Est-de-l'Île-de-Montréal,373.67,1,373.67,2024-02-29 12:50:14,Unknown
+303,cus_Lgr9M21R90YSra,rh@topo3d.ca,Topo3D,373.67,1,373.67,2024-02-27 13:37:42,Unknown
+304,cus_PamzYo2bFsYrqP,mlemieux@icimedias.ca,icimédias inc.,373.67,1,373.67,2024-02-27 12:30:27,Unknown
+305,cus_PcK9ZSeg5xq4fZ,fmoreau@quebec-amerique.com,Les Éditions Québec Amérique inc.,373.67,1,373.67,2024-02-23 12:49:33,Unknown
+306,cus_Lh6aPoPJUCJC9M,bkota@reeloneent.com,Reel One Entertainment - Premiere Bobine,373.67,1,373.67,2024-02-23 11:25:05,Unknown
+307,cus_PcHZkQ64DotMNu,catherinethibault@yapla.com,Yapla,373.67,1,373.67,2024-02-23 10:05:05,Unknown
+308,cus_Pbwk2r2PMVBzrY,mlavalliere@tabletalkpies.ca,Table Talk Canada,373.67,1,373.67,2024-02-22 12:43:12,Unknown
+309,cus_Lh54SrciD08jC4,emploi@convention.qc.ca,Société du Centre des congrès de Québec,373.67,1,373.67,2024-02-22 07:30:32,Unknown
+310,cus_Lh7DSLnxLj3OpU,vaillancourt.isabelle@uqam.ca,Université du Québec à Montréal (UQAM),373.67,1,373.67,2024-02-21 12:12:32,Unknown
+311,cus_PbFfaOyXncIlk7,jacinthe@agence2l.com,Style So Chic,373.67,1,373.67,2024-02-20 15:59:59,Unknown
+312,cus_PbCVw1U5FOgGLe,laurence.calixte@alliancedesprofs.qc.ca,Alliance des professeures et professeurs de Montréal,373.67,1,373.67,2024-02-20 13:07:41,Unknown
+313,cus_PZdS6Isldgcqjm,maud@engages.ca,Engagés,373.67,1,373.67,2024-02-16 08:28:31,Unknown
+314,cus_PYW8mWbmWpu36k,cgiroux@themisgc.com,Groupe Exel International,373.67,1,373.67,2024-02-13 08:51:10,Unknown
+315,cus_LgwFmIA9LTCBpX,leclerc.murielle@lacsq.org,Centrale des syndicats du Québec,373.67,1,373.67,2024-02-12 14:01:50,Unknown
+316,cus_PXkcFU1py5ELqm,m.desjardins@ydcpa.ca,Yves Desjardins CPA inc.,373.67,1,373.67,2024-02-11 07:41:51,Unknown
+317,cus_P0Ra4gONbbEPUH,sales@belocum.com,Belocum,373.67,1,373.67,2024-02-07 07:53:53,Unknown
+318,cus_PTb2SUC81foAMt,pamela.taylor@remax-quebec.com,Pamela Taylor,373.67,1,373.67,2024-01-31 05:48:55,Unknown
+319,cus_LgwSy15QIcWgQL,lyazit@master.ca,The Master Group Inc. - Le Groupe Master Inc.,373.67,1,373.67,2024-01-29 13:08:39,Unknown
+320,cus_PRPUDqfuhW8qDc,farouche@cib-rh.com,Farouche,373.67,1,373.67,2024-01-25 09:31:35,Unknown
+321,cus_PPDYI4SeaePLXt,recrutement@fcssq.quebec,Fédération des centres de services scolaires du Québec,373.67,1,373.67,2024-01-19 13:07:52,Unknown
+322,cus_PO6NdcIjC1BzdP,rh@lepagemillwork.com,Lepage Millwork,373.67,1,373.67,2024-01-17 04:33:23,Unknown
+323,cus_PMbCCcBgooO69d,amanda.lo@nu-b.com,nu-b inc,373.67,1,373.67,2024-01-12 14:37:48,Unknown
+324,cus_PMaqOjdD82McCC,croux@carbonleo.com,Carbonleo,373.67,1,373.67,2024-01-12 12:53:09,Unknown
+325,cus_Lh6ben2Nqd1ZxE,cdc@clefdeschamps.net,Clef Des Champs Inc.,373.67,1,373.67,2024-01-12 10:04:15,Unknown
+326,cus_PMVZgRGyGTH7v1,david.robitaille@plana-capital.com,Plan A Capital Inc.,373.67,1,373.67,2024-01-12 07:28:27,Unknown
+327,cus_Lh6MSvjd4yihVu,emilie.auger-lajoie@macm.org,Musée d'art contemporain de Montréal,373.67,1,373.67,2024-01-08 08:41:09,Unknown
+328,cus_Lh78M0Pj3bJToL,francois.dore@sympatico.ca,Les Entreprises Francois Doré,373.67,1,373.67,2024-01-04 06:36:17,Unknown
+329,cus_Lh6kQQSJTH2O9v,rh@apciq.ca,Association professionnelle des courtiers immobiliers du Québec,373.67,1,373.67,2023-12-21 06:45:36,Unknown
+330,cus_Lgo55ktDQ1oSq3,linda.serret@fedecegeps.qc.ca,Fédération des cégeps,373.67,1,373.67,2023-12-18 13:37:48,Unknown
+331,cus_PBd69zjMQRGeWS,info@droitscollectifs.quebec,Droits collectifs Québec,373.67,1,373.67,2023-12-14 06:37:20,Unknown
+332,cus_LgsEUwb2AOUCgs,bnapolitano@bflcanada.ca,BFL CANADA Risk and Insurance - BFL CANADA risques et assurances,373.67,1,373.67,2023-12-11 13:10:28,Unknown
+333,cus_Lh6GuoyTr5ttLJ,recrutement@mrcvs.ca,MRC Vaudreuil-Soulanges,373.67,1,373.67,2023-12-08 09:02:20,Unknown
+334,cus_Lh6cCXuB86zXRY,ap@gmining.com,G Mining Services - G Services Miniers,373.67,1,373.67,2023-12-06 13:25:25,Unknown
+335,cus_N9UcJ9U9F2rkzD,nboufennech@provencherroy.ca,Provencher Roy,373.67,1,373.67,2023-12-05 07:25:54,Unknown
+336,cus_QWt0cG9iap3Wn8,jbecker@arlynrecruiting.com,Arlyn Recruiting,367.5,1,367.5,2024-07-23 15:22:31,Unknown
+360,cus_Lh7OfmSwWdHG3R,erum.khan@universitypensionplan.ca,University Pension Plan Ontario,367.25,1,367.25,2024-08-28 08:21:57,Unknown
+361,cus_QimPuRcLpGGDrl,peter@charitycareerscanada.ca,Charity Careers Canada,367.25,1,367.25,2024-08-24 07:29:33,Unknown
+362,cus_QiPPcA3UrUpsgD,martine@briostrategies.ca,Brio Stratégies - Residence La Cité,367.25,1,367.25,2024-08-23 07:44:49,Unknown
+363,cus_QcT1g2zKa6xAUR,miznoncvs@gmail.com,Canadaopen LTD,367.25,1,367.25,2024-08-22 09:20:53,Unknown
+364,cus_QJOqhsMNTMRUnf,ntwohey@drewloholdings.com,Drewlo Holdings Inc.,367.25,1,367.25,2024-08-22 07:52:48,Unknown
+365,cus_QahGHuyeyIw8Il,talent@wlu.ca,Wilfrid Laurier University,367.25,1,367.25,2024-08-02 17:34:34,Unknown
+366,cus_LgrUVzz6SlsSuq,aneesa.bhagie@cineplex.com,Cineplex Entertainment LP - Cineplex Divertissement LP,367.25,1,367.25,2024-07-29 17:29:10,Unknown
+367,cus_QR9t1HOdtUAljP,vsotelo@esri.ca,Esri Canada,367.25,1,367.25,2024-07-08 06:45:42,Unknown
+368,cus_QQ3WjoZs01wo1u,Human.Resources@lpl.ca,London Public Library,367.25,1,367.25,2024-07-05 07:53:13,Unknown
+369,cus_LgsLY6D0ISG9zj,meryl.clews@oakville.ca,Town of Oakville,367.25,1,367.25,2024-06-25 12:34:45,Unknown
+370,cus_QJOg2069hp48mK,advert@kcitalent.com,Ellie Morris,367.25,1,367.25,2024-06-17 13:14:10,Unknown
+371,cus_OAgtbQIVGldBS1,careers@niagarapolice.ca,Niagara Regional Police Service,367.25,1,367.25,2024-06-10 11:21:46,Unknown
+372,cus_QFIkGeYsiMBqoG,devin@northone.com,North One,367.25,1,367.25,2024-06-06 15:51:44,Unknown
+373,cus_QEUZHs7ObNLjq6,nancy.martinez@bvglazing.com,Bv Glazing,367.25,1,367.25,2024-06-05 06:20:17,Unknown
+374,cus_LguRl0Fhus4BqO,resume@ccnm.edu,CCNM,367.25,1,367.25,2024-06-04 09:47:00,Unknown
+375,cus_QA23wL3UkzuuX3,pram.recruiting.2024@gmail.com,Pacific Rim Asset Management Inc.,367.25,1,367.25,2024-05-23 14:13:44,Unknown
+376,cus_Q6dlnEUoYPmU6M,health@sclondon.ca,Synergy Health,367.25,1,367.25,2024-05-23 11:03:00,Unknown
+377,cus_NFORthY5go9S1q,vanessa.rose@townofws.ca,Town of Whitchurch-Stouffville,367.25,1,367.25,2024-05-17 12:35:54,Unknown
+378,cus_Lh561BOKpKiD91,qbcareers@qbtransportation.com,Quarterback Transportation,367.25,1,367.25,2024-05-16 12:52:11,Unknown
+379,cus_Q6ZVWQQo4YofuO,2671C@peelpolice.ca,Peel Regional Police,367.25,1,367.25,2024-05-14 07:33:44,Unknown
+380,cus_Q1gyv8YzUl6EnG,michael@dmllp.ca,Davies McMahon LLP,367.25,1,367.25,2024-05-01 07:14:38,Unknown
+381,cus_PxKBZrvMJJzoPQ,kmatatya@national.ballet.ca,The National Ballet of Canada,367.25,1,367.25,2024-04-19 15:07:10,Unknown
+382,cus_Pp2ekXOEPfewcG,jcorkill@pinnaclecaterers.com,Beatriz Catelani Dias,367.25,1,367.25,2024-04-01 08:40:17,Unknown
+383,cus_PmPqpu44OEPhCs,cehughes@saeinc.com,SAE Inc.,367.25,1,367.25,2024-03-25 11:08:37,Unknown
+384,cus_Lh4vSvH0Iv6iuK,mwinder@bankofcanada.ca,Bank of Canada,367.25,1,367.25,2024-03-25 07:26:04,Unknown
+385,cus_PerpZWfpCaaBB9,robina.yasin@costi.org,COSTI Immigrant Services,367.25,1,367.25,2024-03-08 09:00:44,card - visa ending in 2842
+386,cus_Pg2y4wXfmNidQr,INFO@PRECAMBRIAN.CA,Precambrian Product Inc,367.25,1,367.25,2024-03-04 15:41:34,Unknown
+387,cus_LgvyilEOiZkCqZ,jobpostings@daycommunications.ca,Anvi Sapkal,367.25,1,367.25,2024-03-04 12:57:17,Unknown
+388,cus_LgriUpz2GMLABS,katia.plourde@bayardcanada.com,Bayard Presse Canada Inc.,367.25,1,367.25,2024-03-01 13:41:27,Unknown
+389,cus_LpNjpioiB79d5F,careers@bss.on.ca,The Bishop Strachan School,367.25,1,367.25,2024-03-01 07:46:40,Unknown
+390,cus_Pe8zElMSjVbpdy,amajewski@bgccan.com,BGC Canada,367.25,1,367.25,2024-02-28 09:29:04,Unknown
+391,cus_PdssouzZm2zGJv,hrabsoluteltd@gmail.com,Absolute Ltd,367.25,1,367.25,2024-02-27 16:39:49,Unknown
+392,cus_PbwQbCQoJpOfqH,dplamenco@danielscorp.com,The Daniels Corporation,367.25,1,367.25,2024-02-23 06:45:33,Unknown
+393,cus_LgwPdrlNot5kJO,recruitment@lh.ca,Lakeridge Health,367.25,1,367.25,2024-02-23 06:23:30,Unknown
+394,cus_PYyAYOeaC7fcWd,jhulbert@smls.on.ca,St. Mildred's-Lightbourn School,367.25,1,367.25,2024-02-22 07:57:01,Unknown
+395,cus_PbTBHBNcFkv6Fq,bbani006007@gmail.com,Merivale Cardiovascular Consultants,367.25,1,367.25,2024-02-21 06:24:25,Unknown
+396,cus_P5exFJuUCUaxj5,jennifer.pasichnyk@sjhc.london.on.ca,St. Joseph’s Health Care London,367.25,1,367.25,2024-02-06 07:34:00,Unknown
+397,cus_LgwV3KYEHpJLje,maureen.eberle@theroyal.ca,Royal Ottawa Health Care Group,367.25,1,367.25,2024-02-01 11:25:49,Unknown
+398,cus_PRnk9Py6Y91srg,patrick.recio@inhabiteducation.com,Inhabit Education,367.25,1,367.25,2024-01-30 09:09:39,Unknown
+399,cus_POTJaU6y8PFzQQ,UptownAssante@outlook.com,Uptown Capital Management Ltd.,367.25,1,367.25,2024-01-23 13:39:09,Unknown
+400,cus_PQiT3i6VCVo0n6,ftdc0923@gmail.com,EZCARE NURSING AGENCY,367.25,1,367.25,2024-01-23 13:24:03,Unknown
+401,cus_POq6Aoc80exT2M,jaclynn.boateng@lumerate.com,Lumerate,367.25,1,367.25,2024-01-23 08:08:38,Unknown
+402,cus_Lh6LZrKCf6M5B8,marie-josee.laforce@nac-cna.ca,National Arts Centre (NAC) - Centre National des Arts (CNA),367.25,1,367.25,2024-01-23 06:37:18,Unknown
+403,cus_Lh56f6fWPgoc6a,wendy@bittersweetonline.com,Bitter Sweet,367.25,1,367.25,2024-01-17 13:45:51,Unknown
+404,cus_PAcrn35Ryq4xdJ,hr@newdermamed.com,NewDermamed Cosmetic Surgery & Advanced Laser Clinic,367.25,1,367.25,2024-01-12 12:09:53,Unknown
+405,cus_PJUXm1c5HdrqPp,jennifer.cheung@ca.mcd.com,McDonald's Restaurants of Canada Limited,367.25,1,367.25,2024-01-05 09:50:26,Unknown
+406,cus_ONrIxIY35dK91P,info@diamondengraved.com,DIAMOND ENGRAVED INC.,367.25,1,367.25,2024-01-04 10:47:00,card - mastercard ending in 7471
+407,cus_PJ99klyknNju25,jsharp@patents-toronto.com,Riches McKenzie & Herbert LLP,367.25,1,367.25,2024-01-03 08:14:27,Unknown
+413,cus_Qh5UaQ01UadvgG,accounting@fwdsec.com,Forward Security Inc,341.25,1,341.25,2024-08-19 19:08:43,Unknown
+414,cus_QZZUwaDM2UV6yr,accounting@eurekadevsecops.com,Eureka DevSecOps Inc.,341.25,1,341.25,2024-07-30 17:30:19,Unknown
+415,cus_QXBNWVg9rQVJ8O,ap@geminimachine.com,Gemini Machine Works,341.25,1,341.25,2024-07-26 13:32:58,Unknown
+416,cus_QRHGOhy4Aw0RqB,kristine.westover@terex.com,Kristine Westover,341.25,1,341.25,2024-07-18 12:45:46,Unknown
+417,cus_QRxJj0h67H5BG9,accounts@macsheating.ca,Mac's Heating Ltd.,341.25,1,341.25,2024-07-17 11:38:38,Unknown
+418,cus_QUCtSFlkfdyS2f,pactow.office@gmail.com,Ainey Holdings Ltd.,341.25,1,341.25,2024-07-16 10:21:58,Unknown
+419,cus_QNIjjLZRXlF7To,tim@discoverholidays.ca,Discover Holidays,341.25,1,341.25,2024-07-01 23:53:27,Unknown
+420,cus_QFhRV0TdV1GuuP,robert@engagedhr.com,Arie Epstein,341.25,1,341.25,2024-06-07 16:23:34,Unknown
+421,cus_QE6zj4TzaJxqqE,janine.valliere@regalrexnord.com,Thomson Power Systems,341.25,1,341.25,2024-06-03 10:39:31,Unknown
+422,cus_QBswCgycccbLEd,redacted.job.bank@gmail.com,WAGMI Studios Ltd. dba Redacted Studios,341.25,1,341.25,2024-05-28 12:05:06,Unknown
+423,cus_Q73eOlhBaSCiNs,laura.acker@cpsa.ab.ca,College of Physicians & Surgeons of Alberta,341.25,1,341.25,2024-05-23 13:44:21,Unknown
+424,cus_Lh5qAMGZlAP30q,debbiek@leadersinternational.com,Leaders International Executive Search,341.25,1,341.25,2024-05-15 15:07:55,card - visa ending in 8863
+425,cus_Q6GqThWexiz1UG,karen.larsen@ubc.ca,UBC,341.25,1,341.25,2024-05-13 14:16:29,Unknown
+426,cus_MEVTB2vTZ7BNPu,shuweitrading@gmail.com,Shuwei Trading Ltd,341.25,1,341.25,2024-04-30 12:37:27,Unknown
+427,cus_PxLJ2cIlNwxHjd,liling@hellobutler.com,AA Property Management Ltd,341.25,1,341.25,2024-04-30 11:06:35,Unknown
+428,cus_PzrLvNMOG8BaAy,nikki@myfdclinic.ca,My Family Doctor,341.25,1,341.25,2024-04-26 09:29:36,Unknown
+429,cus_NSbcLCXahWLt5m,jobs@kelowna.ca,City of Kelowna,341.25,1,341.25,2024-04-19 10:38:54,Unknown
+430,cus_Lh79ypALPIZRKh,stefan@decoregroup.com,Decore Group,341.25,1,341.25,2024-04-17 14:25:27,Unknown
+431,cus_Lh7L5ckAxRYq2e,executive.recruitment@fraserhealth.ca,Fraser Health Authority,341.25,1,341.25,2024-04-17 14:15:01,Unknown
+432,cus_OIJzCTiZw1cS6H,hr@compassflying.com,Executive Compass Flight Institute Ltd.,341.25,1,341.25,2024-04-16 17:34:49,Unknown
+433,cus_Ptr324srI5oArl,susan@jccgv.bc.ca,Jewish Community Centre of Greater Vancouver,341.25,1,341.25,2024-04-10 09:14:07,Unknown
+434,cus_PokV0j9eBYgBDC,wemofarms@gmail.com,Wemo Farms ltd,341.25,1,341.25,2024-03-27 18:01:39,Unknown
+435,cus_PjPmC0TxNZw4JH,gisela.rivas@caddyfreight.ca,Caddy Freight Inc.,341.25,1,341.25,2024-03-13 11:58:24,Unknown
+436,cus_PdVcngFsYYyXc6,anne.kamau@fraserway.com,Fraserway RV,341.25,1,341.25,2024-03-01 14:42:51,Unknown
+437,cus_Lh6VyCqKmmkdyt,employment@metis.org,Métis Nation of Alberta,341.25,1,341.25,2024-03-01 13:46:13,Unknown
+438,cus_PeHNL95tJnO7ui,recruitment.dahrouge@gmail.com,Dahrouge Geological Consulting Ltd.,341.25,1,341.25,2024-02-28 18:31:12,Unknown
+439,cus_MonNa6NZTiW449,recruitmentmarketing@cnrl.com,Canadian Natural Resources Limited,341.25,1,341.25,2024-02-02 06:42:41,Unknown
+440,cus_PTzxHdGHAZpmYf,hr@goodmorning.com,Goodmorning.com,341.25,1,341.25,2024-02-01 10:11:29,Unknown
+441,cus_LguwZzlx4693Gz,hrcoordinators@translink.ca,TransLink,341.25,1,341.25,2024-01-29 12:07:07,Unknown
+442,cus_PRrYapW4NcvQhY,KAL@WEST-COAST-BEAUTY.COM,WEST COAST BEAUTY,341.25,1,341.25,2024-01-26 15:10:33,Unknown
+443,cus_PO5UsKya4jlPTY,gaochuvan@gmail.com,Yang Li,341.25,1,341.25,2024-01-25 21:08:32,Unknown
+444,cus_Oxbm2OUHGsrZVW,accounting@lloydstravel.com,Lloyds Travel & Cruises Ltd.,341.25,1,341.25,2024-01-13 21:54:04,Unknown
+445,cus_PLQWEt0cZWQc4j,mimi.hsieh@metrovancouver.org,Metro Vancouver Regional District,341.25,1,341.25,2024-01-09 10:16:01,Unknown
+446,cus_OVSA3WLQC72D7j,jimmy@gmwfrt.com,GMW FREIGHT SERVICES (CANADA) LTD.,341.25,1,341.25,2024-01-03 09:58:09,Unknown
+447,cus_PAuW5I72cPChFZ,hr@tnse.com,True North Sports + Entertainment,341.25,1,341.25,2023-12-14 08:43:26,Unknown
+448,cus_Lh6rh8d2M9uBjw,hr@flytomltd.com,FLYTOM TRANSPORTATION LTD,341.25,1,341.25,2023-12-04 15:54:22,Unknown
+449,cus_OdyrM0UIIEKAWM,golemwindows@gmail.com,GOLEM WINDOWS AND DOORS INC.,341.25,1,341.25,2023-12-04 15:00:56,Unknown
+450,cus_Lgupvb9wB7CawQ,mbaessato@delta-q.com,Delta-Q Technologies,341.25,1,341.25,2023-12-04 10:16:35,Unknown
+453,cus_QiOl7JWaSbSmQw,nellie.erasmus@wilsonhcg.com,WilsonHCG,325.0,1,325.0,2024-08-23 07:15:18,Unknown
+454,cus_Qf0z90PnZ9F9OR,RH@groupefdufresne.ca,Groupe F Dufresne,325.0,1,325.0,2024-08-14 06:17:37,Unknown
+455,cus_QDz48MDrWaWGJJ,tamani.mbeya@frontierconsulting.com,Frontier Consulting,325.0,1,325.0,2024-07-10 05:49:52,Unknown
+456,cus_Lzs3StbbLyiBt0,Raquel.Diez@gov.mb.ca,Manitoba Government,325.0,1,325.0,2024-06-27 08:50:57,Unknown
+457,cus_QEsR2qUeVrrEKP,hr@legalaes.com,LEGALAES,325.0,1,325.0,2024-06-13 02:04:38,Unknown
+458,cus_PzHlypu74t5UYN,krista.wells@jobs-atkinsrealis.com,"AtkinsRéalis, Inc.",325.0,1,325.0,2024-04-24 21:36:09,Unknown
+459,cus_PgyOHXQjlJmVMz,mairi@hoganmedia.com.au,Hogan Media,325.0,1,325.0,2024-03-06 22:35:29,Unknown
+460,cus_PDaMoJE8aLDW5j,ninahegarty@neonlogicageny.com,Te Whatu Ora Health New Zealand Waitematā,325.0,1,325.0,2023-12-19 11:53:23,Unknown
+461,cus_M3GPg6lqqkYYmB,tony@jobelephant.com,JobElephant,325.0,1,325.0,2023-12-12 09:58:02,Unknown
+462,cus_LgwR3EyFVyNcBK,calmeida@medicalert.ca,MedicAlert Foundation Canada,312.16,1,312.16,2024-07-09 13:18:32,Unknown
+463,cus_LguAdEK0MnIm7w,martine@bretoncom.com,OJobs.ca,201.61,1,201.61,2023-12-11 06:57:05,Unknown
+464,cus_PDLXK4LaHfrKRm,emilie.trotin@lightspeedhq.com,Lightspeed Commerce,201.21,1,201.21,2023-12-18 20:25:56,Unknown
+465,cus_QMgKRRDq28o4v5,operations@cynetcorp.com,Cynet Health Canada,197.75,1,197.75,2024-06-27 06:59:36,Unknown
+467,cus_LgtJJSZd3uxJSD,talentsupplyrecherch@fcc-fac.ca,Farm Credit Canada - Financement agricole Canada,131.25,1,131.25,2024-01-12 15:13:44,Unknown
