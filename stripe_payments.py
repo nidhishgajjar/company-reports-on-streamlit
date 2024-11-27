@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import os
 from typing import List, Dict
 from collections import defaultdict
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, field
 from decimal import Decimal
 import pandas as pd
 
@@ -13,10 +13,14 @@ class CustomerInsight:
     email: str = ""
     name: str = ""
     total_spend: Decimal = Decimal('0')
+    transaction_count: int = 0
     last_payment_amount: Decimal = Decimal('0')
     last_payment_date: datetime = None
     last_payment_method: str = ""
-    transaction_count: int = 0
+    payment_history: List[Dict] = field(default_factory=list)
+    payment_frequency: timedelta = None
+    avg_payment_amount: Decimal = Decimal('0')
+    spending_trend: str = "stable"
 
 class StripeAnalytics:
     def __init__(self):
@@ -46,25 +50,38 @@ class StripeAnalytics:
         except stripe.error.StripeError:
             return "Unknown"
 
-    def get_customer_insights(self, months: int = 12) -> List[CustomerInsight]:
+    def get_customer_payment_history(self, months: int = 12) -> List[CustomerInsight]:
         """
-        Analyze customer payment behavior for the specified period.
+        Get detailed payment history for all customers over the specified period.
         """
-        three_months_ago = datetime.now() - timedelta(days=30 * months)
-        timestamp = int(three_months_ago.timestamp())
-
-        # Dictionary to store customer insights
-        customers = defaultdict(lambda: CustomerInsight(customer_id=""))
+        cutoff_date = datetime.now() - timedelta(days=30 * months)
+        timestamp = int(cutoff_date.timestamp())
+        
+        # Dictionary to store customer insights with payment history
+        customers = defaultdict(lambda: {
+            'customer_id': '',
+            'email': '',
+            'name': '',
+            'payments': [],
+            'total_spend': Decimal('0'),
+            'transaction_count': 0,
+            'last_payment_amount': Decimal('0'),
+            'last_payment_date': None,
+            'last_payment_method': '',
+            'payment_frequency': timedelta(days=0),
+            'avg_payment_amount': Decimal('0'),
+            'spending_trend': 'stable'  # can be 'increasing', 'decreasing', or 'stable'
+        })
         
         try:
-            # Fetch all payments after the timestamp
+            # Fetch all payments after the cutoff date
             payments = stripe.PaymentIntent.list(
                 created={'gte': timestamp},
                 limit=100,
-                expand=['data.customer']
+                expand=['data.customer', 'data.payment_method']
             )
 
-            # Process payments and aggregate customer data
+            # Process all payments
             for payment in payments.auto_paging_iter():
                 if payment.status != 'succeeded':
                     continue
@@ -73,28 +90,72 @@ class StripeAnalytics:
                 payment_date = datetime.fromtimestamp(payment.created)
                 payment_amount = Decimal(str(payment.amount / 100))
 
+                # Initialize customer data if needed
                 if customer_id not in customers:
                     customer_details = self.get_customer_details(customer_id)
-                    customers[customer_id] = CustomerInsight(
-                        customer_id=customer_id,
-                        email=customer_details['email'],
-                        name=customer_details['name']
-                    )
+                    customers[customer_id].update({
+                        'customer_id': customer_id,
+                        'email': customer_details['email'],
+                        'name': customer_details['name']
+                    })
 
-                customer = customers[customer_id]
-                customer.total_spend += payment_amount
-                customer.transaction_count += 1
+                # Add payment to history
+                customers[customer_id]['payments'].append({
+                    'date': payment_date,
+                    'amount': payment_amount,
+                    'method': self.get_payment_method_details(payment.payment_method)
+                })
 
-                # Update last payment details if this is the most recent
-                if not customer.last_payment_date or payment_date > customer.last_payment_date:
-                    customer.last_payment_date = payment_date
-                    customer.last_payment_amount = payment_amount
-                    customer.last_payment_method = self.get_payment_method_details(payment.payment_method)
+            # Calculate additional metrics for each customer
+            for customer_id, data in customers.items():
+                payments = sorted(data['payments'], key=lambda x: x['date'])
+                data['transaction_count'] = len(payments)
+                data['total_spend'] = sum(p['amount'] for p in payments)
+                
+                if payments:
+                    data['last_payment_date'] = payments[-1]['date']
+                    data['last_payment_amount'] = payments[-1]['amount']
+                    data['last_payment_method'] = payments[-1]['method']
+                    
+                    # Calculate average time between payments
+                    if len(payments) > 1:
+                        time_diffs = [(payments[i+1]['date'] - payments[i]['date']) 
+                                    for i in range(len(payments)-1)]
+                        data['payment_frequency'] = sum(time_diffs, timedelta()) / len(time_diffs)
+                    
+                    # Calculate average payment amount
+                    data['avg_payment_amount'] = data['total_spend'] / len(payments)
+                    
+                    # Analyze spending trend
+                    if len(payments) >= 3:
+                        recent_avg = sum(p['amount'] for p in payments[-3:]) / 3
+                        older_avg = sum(p['amount'] for p in payments[:-3]) / (len(payments)-3) if len(payments) > 3 else recent_avg
+                        
+                        if recent_avg > older_avg * 1.2:  # 20% increase
+                            data['spending_trend'] = 'increasing'
+                        elif recent_avg < older_avg * 0.8:  # 20% decrease
+                            data['spending_trend'] = 'decreasing'
 
             # Convert to list and sort by total spend
-            customer_list = list(customers.values())
-            customer_list.sort(key=lambda x: x.total_spend, reverse=True)
+            customer_list = [
+                CustomerInsight(
+                    customer_id=data['customer_id'],
+                    email=data['email'],
+                    name=data['name'],
+                    total_spend=data['total_spend'],
+                    transaction_count=data['transaction_count'],
+                    last_payment_amount=data['last_payment_amount'],
+                    last_payment_date=data['last_payment_date'],
+                    last_payment_method=data['last_payment_method'],
+                    payment_history=data['payments'],
+                    payment_frequency=data['payment_frequency'],
+                    avg_payment_amount=data['avg_payment_amount'],
+                    spending_trend=data['spending_trend']
+                )
+                for data in customers.values()
+            ]
             
+            customer_list.sort(key=lambda x: x.total_spend, reverse=True)
             return customer_list
 
         except stripe.error.StripeError as e:
@@ -210,7 +271,7 @@ class StripeAnalytics:
 def main():
     analytics = StripeAnalytics()
     months = 12  # You can change this value as needed
-    customer_insights = analytics.get_customer_insights(months=months)
+    customer_insights = analytics.get_customer_payment_history(months=months)
     
     # Save insights to text file
     analytics.save_customer_insights(customer_insights, months=months)
