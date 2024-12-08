@@ -1,0 +1,1339 @@
+=== SEARCH METADATA ===
+Total Results: None
+Total Companies: None
+Truncated Results: 0
+Truncated Companies: 0
+================================================================================
+
+Job ID: 288080053
+Job Title: Desktop Support Engineer - Up to $130k CAD + Bonus - Elite FinTech Firm 
+Normalized Title: None
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxx Xxxx
+Company Domain: hunterbond.com
+Industry: Staffing and Recruiting
+Industry ID: 104
+Company Size: 51-200
+Exact Employee Count: 59
+Founded Year: 2014
+Company Logo: None
+LinkedIn URL: xxxxxXXXxxxXxxxxxxxxXxxxXxxxxxxxXxxxxxxXxxxxX
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: True
+Company Description: Xxxxxx Xxxx is a global firm specialising in the finance and technology recruitment sectors with the aim to provide a thorough, effective and transparent solution to their client and candidates needs.  Xxxxxx Xxxx directors have 20 years experience specialising in financial and technology jobs. With this experience comes a desire to provide the best recruitment service. Integrity is delivered by Xxxxxx Xxxx at its upmost. Clients and candidates alike will have transparency and dedication from start to finish. Founding Directors, Lee Ballen and Stephen Perkins both have successful careers with a strong track record working with the world's leading financial institutions.  Today they bring their passion, knowledge and work ethic to the forefront of their business.
+
+Xxxxxx Xxxx specialises in the following markets: 
+
+Big Data - Architecture, Business Analysis, Business Intelligence, Consultancy, Data Governance, Data Analysis, Hadoop, Project Management, Programming, Testing and Support. 
+
+Change, Tranformation & Regulatory -  Change Management, Change Analysis, Change Co-Ordination, Project Management, PRINCE2, Agile, Waterfall, P3O, Six Sigma, Programme Management, Business Analysis, Business Transformation, Transition Management.
+
+Consultancies - Information Security, Business Continuity Planning, Disaster Recovery, Programme Management, Performance Management, Management Information, Business Process Transformation, Customer Relationship Management, Supply Chain and Purchasing, Governance, Audit, Risk and Policy Implementation.
+
+Finance - Advisory & Strategy, Products Advisory, Monitoring & Surveillance, Compliance Reviews, Disclosures, Shareholder Reporting, and
+AML/Financial Crime. 
+
+Finance Technology - .NET, C#, C++, Java, Solution Architect, Windows, Linux, Networks & Security, Business Analysis, Programme Manager, Change Analyst and Testing.
+
+Risk - Market Risk, Credit Risk, Collateral Management, Liquidity Risk, CVA (Credit Value Adjustment) and Actuarial.
+SEO Description: Xxxxxx Xxxx launched in 2014 and aims to provide a thorough, effective and transparent solution to recruitment focusing in finance and technology.
+Following successful careers with the Sthree group at Huxley Associates and Orgtel respectively, founders Lee Ballen and Stephen Perkins bring their passion, knowledge and work ethic to the forefront of their client and candidates needs. They have created a business model that empowers Xxxxxx Xxxx to give outstanding service every time.
+Although their story has just began, they already operate across the worlds leading hubs in the finance and technology sectors globally and boast a significant amount of industry acknowledgement including accreditations from REC and GR.
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 3518
+Jobs Last 30 Days: 502
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Montreal
+Short Location: Montreal, QC
+Long Location: Montreal, QC
+Country: None
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: Montreal, QC
+Cities: 
+Continents: 
+Postal Code: None
+Latitude: None
+Longitude: None
+
+=== Work Type ===
+Remote: False
+Hybrid: True
+Employment Statuses: Full-time
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: 42, a-b-testing, aap, abstract, active-directory, adobe-experience-manager, adobe-target, aem, aggrid, agile, ai, airflow, amazon-cloudwatch, amazon-ec2, amazon-lambda, amazon-linux, amazon-machine-learning, amazon-rds-for-mysql, amazon-s3, amazon-web-services, ambition, amd, angularjs, ansible, apache, apache-airflow, apache-hadoop, apache-maven, apache-spark-streaming, apex, api, apple-business-manager, arrow, aspect, aspect-ctrm, atandt, autosys, aws, aws-cloudformation, aws-for-sap, aws-lambda, aws-s3, azure-active-directory, azure-arc, azure-data-factory, azure-databricks, azure-devops, azure-machine-learning, azure-sql, azure-storage, back-end, balance, bamboo, bandwidth, bard-ai, bazel, beautifulsoup, big-data, bitbucket, blockchain-com, brightest-minds, broad, broadly, buildout, built-in, c-sharp, centos, ceph, charles, chatgpt, chef, circa, circleci, cisco-asa, cisco-ise, cisco-unified-communications-manager, citrix-netscaler, citrix-xenapp, cleartax, cli, clickhouse, close, cloud, cmake, coast, collaborate, collibra, complete, component, confluence, consul, cortex, cplusplus, crm, crowdstrike, css, css-3, curated, cybersecurity, cypress, daily, darktrace, data-visualisation, data-visualization, databricks, datadog, datto, debian, delta-lake, deputy, devops, devops-stack, django, docker, domino, dynamics-crm, dynatrace, e-conomic, elastic-go, elasticsearch, elearning-lms, electronic-trading, elk, emberjs, embrace, entity-framework, erlang, esri, exabeam, excel, f5, fastapi, fenergo, fhir, fiddler, fidessa, figma, filebeat, flask, flexitime, forescout, fortinet-security, foundationdb, ftp, g-suite, git, github, github-actions, gitlab, gitlab-ci, go, golang, google-cloud-iot-core, google-cloud-platform, google-surveys, google-vpc, gotransverse, gradle, grafana, graphql, groovy, hadoop, handlebars, hashicorp, hashpaid, hazelcast, helm, hibernate, html, html5, imply, infoblox, intel, interact, investis, invision, ios, ivanti, java, java-ee, javascript, jenkins, jfrog, jfrog-artifactory, jira, joe, join-it, js, juniper, junit, jupyter, kafka, katalon, keen, kibana, kotlin, kubernetes, kvm, laravel, launchpad, ldap-com, learnpoint-lms, learnworlds, lets-chat, level, linkedin, linux, linux-kernel, logstash, lucidchart, mac-os, machine-learning, macos, macro, matplotlib, meetings, mesh, microsoft-active-directory, microsoft-azure, microsoft-cloud-app-security, microsoft-compliance-manager, microsoft-defender-for-endpoint, microsoft-defender-for-endpoint-, microsoft-defender-for-identity, microsoft-dynamics-crm, microsoft-endpoint-configuration-manager, microsoft-entity-framework, microsoft-entra-id, microsoft-excel, microsoft-exchange, microsoft-exchange-online, microsoft-forefront, microsoft-graph, microsoft-hyperv, microsoft-intune, microsoft-office-365, microsoft-onedrive, microsoft-outlook, microsoft-powerpoint, microsoft-sharepoint, microsoft-sql-server, microsoft-typescript, microsoft-windows-7, microsoft-windows-os, microsoft-windows-server, mimecast, mitre, ml, mockito, mode, mongodb, mssql, myob, mysql, nable, nagios, nessus, netapp, network-solutions, new-relic, nice-actimize, nodejs, nosql, numpy, ocaml, octopus-deploy, okta, on-site, onedrive, onestream, openlink, opentelemetry, oracle, oracle-ebs, oracle-pl-sql, oracle-solaris, oracle-vm, orchestrade, overview, packer, pandas, payable, perf, perl, pgadmin-2, php, playwright, podman-io, point, postgres, postgresql, postman, power-bi, powershell, processing-js, proliant, prometheus, propel, prophet, provide-support, pulumi, puppet, pure-storage, pyspark, pytest, python, pytorch, qt, qualys, r2, rabbitmq, rapid7, react, react-proto, reactiveui-refit, ready, receipt-bank, red-hat, red-hat-ansible-automation-platform, red-hat-enterprise-linux, red-hat-satellite, redis, reduxjs, response, rocket-fuel, root-cause, ruby, runai, rust, salesforce, salt, saltstack, sandbox, sap, sap-successfactors, sas, scala, scikit-learn, scipy, scrapy, selenium, serverless, servicenow, sftp, sherlock, sitefinity, sketch, skyline, slack, snowflake, soap, soap-ui, solarwinds, sonatype-nexus, spark, split, splunk, spring, spring-boot, springboard, sql, sso-buzzfeed, storybook, streamline, successfactors, supernova, swift, symantec, symantec-dlp, tableau, tackle, tdd, teamcity, teamwork, tenable, tensorflow, terraform, thanos-2, thrive, toolkit, tremendous, typescript, ubuntu, ui, victoria-metrics, vip, visual-studio-code, vmware-esxi, vmware-horizon, vmware-vsphere, vue-js, wcf, webex, weka, whatsapp, window-server, windows, windows-10, windows-11, windows-7, windows-server-2012, windows-server-2016, wireshark, xero, xml-format, yaml, zabbix, zendesk, zeroheight, zoom, zscaler
+Technology Slugs: 42, a-b-testing, aap, abstract, active-directory, adobe-experience-manager, adobe-target, aem, aggrid, agile, ai, airflow, amazon-cloudwatch, amazon-ec2, amazon-lambda, amazon-linux, amazon-machine-learning, amazon-rds-for-mysql, amazon-s3, amazon-web-services, ambition, amd, angularjs, ansible, apache, apache-airflow, apache-hadoop, apache-maven, apache-spark-streaming, apex, api, apple-business-manager, arrow, aspect, aspect-ctrm, atandt, autosys, aws, aws-cloudformation, aws-for-sap, aws-lambda, aws-s3, azure-active-directory, azure-arc, azure-data-factory, azure-databricks, azure-devops, azure-machine-learning, azure-sql, azure-storage, back-end, balance, bamboo, bandwidth, bard-ai, bazel, beautifulsoup, big-data, bitbucket, blockchain-com, brightest-minds, broad, broadly, buildout, built-in, c-sharp, centos, ceph, charles, chatgpt, chef, circa, circleci, cisco-asa, cisco-ise, cisco-unified-communications-manager, citrix-netscaler, citrix-xenapp, cleartax, cli, clickhouse, close, cloud, cmake, coast, collaborate, collibra, complete, component, confluence, consul, cortex, cplusplus, crm, crowdstrike, css, css-3, curated, cybersecurity, cypress, daily, darktrace, data-visualisation, data-visualization, databricks, datadog, datto, debian, delta-lake, deputy, devops, devops-stack, django, docker, domino, dynamics-crm, dynatrace, e-conomic, elastic-go, elasticsearch, elearning-lms, electronic-trading, elk, emberjs, embrace, entity-framework, erlang, esri, exabeam, excel, f5, fastapi, fenergo, fhir, fiddler, fidessa, figma, filebeat, flask, flexitime, forescout, fortinet-security, foundationdb, ftp, g-suite, git, github, github-actions, gitlab, gitlab-ci, go, golang, google-cloud-iot-core, google-cloud-platform, google-surveys, google-vpc, gotransverse, gradle, grafana, graphql, groovy, hadoop, handlebars, hashicorp, hashpaid, hazelcast, helm, hibernate, html, html5, imply, infoblox, intel, interact, investis, invision, ios, ivanti, java, java-ee, javascript, jenkins, jfrog, jfrog-artifactory, jira, joe, join-it, js, juniper, junit, jupyter, kafka, katalon, keen, kibana, kotlin, kubernetes, kvm, laravel, launchpad, ldap-com, learnpoint-lms, learnworlds, lets-chat, level, linkedin, linux, linux-kernel, logstash, lucidchart, mac-os, machine-learning, macos, macro, matplotlib, meetings, mesh, microsoft-active-directory, microsoft-azure, microsoft-cloud-app-security, microsoft-compliance-manager, microsoft-defender-for-endpoint, microsoft-defender-for-endpoint-, microsoft-defender-for-identity, microsoft-dynamics-crm, microsoft-endpoint-configuration-manager, microsoft-entity-framework, microsoft-entra-id, microsoft-excel, microsoft-exchange, microsoft-exchange-online, microsoft-forefront, microsoft-graph, microsoft-hyperv, microsoft-intune, microsoft-office-365, microsoft-onedrive, microsoft-outlook, microsoft-powerpoint, microsoft-sharepoint, microsoft-sql-server, microsoft-typescript, microsoft-windows-7, microsoft-windows-os, microsoft-windows-server, mimecast, mitre, ml, mockito, mode, mongodb, mssql, myob, mysql, nable, nagios, nessus, netapp, network-solutions, new-relic, nice-actimize, nodejs, nosql, numpy, ocaml, octopus-deploy, okta, on-site, onedrive, onestream, openlink, opentelemetry, oracle, oracle-ebs, oracle-pl-sql, oracle-solaris, oracle-vm, orchestrade, overview, packer, pandas, payable, perf, perl, pgadmin-2, php, playwright, podman-io, point, postgres, postgresql, postman, power-bi, powershell, processing-js, proliant, prometheus, propel, prophet, provide-support, pulumi, puppet, pure-storage, pyspark, pytest, python, pytorch, qt, qualys, r2, rabbitmq, rapid7, react, react-proto, reactiveui-refit, ready, receipt-bank, red-hat, red-hat-ansible-automation-platform, red-hat-enterprise-linux, red-hat-satellite, redis, reduxjs, response, rocket-fuel, root-cause, ruby, runai, rust, salesforce, salt, saltstack, sandbox, sap, sap-successfactors, sas, scala, scikit-learn, scipy, scrapy, selenium, serverless, servicenow, sftp, sherlock, sitefinity, sketch, skyline, slack, snowflake, soap, soap-ui, solarwinds, sonatype-nexus, spark, split, splunk, spring, spring-boot, springboard, sql, sso-buzzfeed, storybook, streamline, successfactors, supernova, swift, symantec, symantec-dlp, tableau, tackle, tdd, teamcity, teamwork, tenable, tensorflow, terraform, thanos-2, thrive, toolkit, tremendous, typescript, ubuntu, ui, victoria-metrics, vip, visual-studio-code, vmware-esxi, vmware-horizon, vmware-vsphere, vue-js, wcf, webex, weka, whatsapp, window-server, windows, windows-10, windows-11, windows-7, windows-server-2012, windows-server-2016, wireshark, xero, xml-format, yaml, zabbix, zendesk, zeroheight, zoom, zscaler
+
+=== Hiring Team Contacts ===
+
+Team Member:
+Name: Xxxx Xxxxxxx
+Role: Xxxxxxxxx Xxxxxxxx X Xxxxxx Xxxx X XxxxxxxxX XxxxxxX XxxxxxxxxX XXXX XXX
+LinkedIn: xxxxxXXXxxxXxxxxxxxxXxxxXxxXxxxxxxxxxxxxxX
+
+=== URLs & Dates ===
+Job URL: xxxxxXXXxxxXxxxxxxxxXxxxXxxxxXxxxxXXXXXXXXXXXX
+Final URL: xxxxxXXXxxxXxxxxxxxxXxxxXxxxxXxxxxXXXXXXXXXXXX
+Source URL: xxxxxXXXxxxXxxxxxxxxXxxxXxxxxXxxxxXXXXXXXXXXXX
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:21:45.362215+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+Xxx XxxxxX Xxxxxxx Xxxxxxx Xxxxxxxx
+
+XxxxxxX Xxxxx XxxXxxx Xxxx
+
+XxxxxxX Xx xx XXXXx XXX X Xxxxx
+
+XxxxxxxxxxX X X X xxxxx 
+
+XxxxxxxxX Xxxxxxxx 
+
+XxxxxX XxxxxxxXxxxx xxxxX xxxxxxxxx xx xxxxxxxx xxxxxxxxxx xxxxxxxxX xx xxx xxxxX x xxxxxxxxXxxxxxxxxxxxxx xxxxxxxxxxxX xxxxxxxxx xxxxxxxX xxxxxxxx xxxxxxxx xx XxxxxxxX
+
+Xx Xxxxxxxxxx Xxxxxx Xxxxxxxxx Xxxxxxxx Xxxx xx xxxxxxx xxx x xxxxxx xxxxxxxx Xxxxxxx Xxxxxxxx xxxx xxxxxxxxxx xxxxxxxxxx xx xxxx xxx xxxx xx xxxxx xxxxx xx xxxxx xx xxxxxxxxxxxX
+
+Xxxx xxxx xxxx xx xxxxxxxxx xxxx xxxxxxX xxxxxxx x xxxxx xxxxxxx xxx xxx xxxx xx xx xxxxxxxxx xxxxXxxxxxx xxxxxxxxxxxX
+
+XxxxX
+
+X Xxxxxxx xx x xxxxx xxxx xxxxxx xxx XXXXX xxxxxx
+X Xxxxxxxx xxxx xxxxxxx xx xxxxxxxXxxxxxxxx xxxxxxxxxxxxxx xxxxxxxx
+X Xxxxxxxxxx xxxxxxxx xxx xxxxxxxxxx
+X Xxxxxxxxxx xx xxxxxx xxxx xxxxx xxXxxxx xxx xxxxx xxxxxxx xxxxxxxx
+X Xxxxxxx xxxxxx xxxxxxxxx XXX
+
+XxxxxxX
+
+X X X X xxxxx xx xxxxxxxxxx xx x Xxxxxxx XxxxxxxxXXxxxxxx Xxxxxxxxxxxxx
+X Xxxxxx xxxxxxxxx xx xxxxxxxxxx xXxX XxxxxXxxxx
+X Xxxx xxxxxxxxxxxxx xx xxx Xxxxxxx Xxxxxxxxxxxxxx xxxxx XXxxxxxX XXXXX XXX
+X Xxxxxxxxxx xxxx XXxxxx xx Xxxxx X
+X Xxxxxxxxxxx xxxx xxxxxxx xx x xxxx Xxxxx xxXxxxx xxx xxxxxX
+X X Xxxxxxxx Xxxxxxx Xxxxxx xx xxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxx
+X Xxxxxxxxxx xx x xxxxxx xxxxxxxxx xxxxxxxxxxx XxXxX xxxxxxxX xx x xxxx xxxx
+
+================================================================================
+Job ID: 288080282
+Job Title: Customer Support Representative
+Normalized Title: None
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxx
+Company Domain: ndax.io
+Industry: Financial Services
+Industry ID: 43
+Company Size: 51-200
+Exact Employee Count: 53
+Founded Year: None
+Company Logo: None
+LinkedIn URL: xxxxxXXXxxxXxxxxxxxxXxxxXxxxxxxxXxxxxXxxX
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: False
+Company Description: In 2018, Xxxx was launched as a secure, regulated and innovative cryptocurrency trading platform with a mission to empower everyone to participate and prosper in the modern digital economy.
+
+Xxxx is democratizing crypto for everyone and empowering Canadians to buy, sell, trade, stake, and earn more from their digital assets, wherever they go. With low, transparent trading fees and the ability to trade digital assets in Canadian dollars, Xxxx is designed to serve the needs of all Canadians, from first-time investors to advanced traders.
+
+Xxxx has been recognized as one of Canada’s Best Workplaces by Great Place to Work®.
+SEO Description: Buy, sell and stake cryptocurrencies in Canada. Instantly. 
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 2
+Jobs Last 30 Days: 0
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Calgary
+Short Location: Calgary, AB
+Long Location: Calgary, AB
+Country: None
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: Calgary, AB
+Cities: 
+Continents: 
+Postal Code: None
+Latitude: None
+Longitude: None
+
+=== Work Type ===
+Remote: False
+Hybrid: True
+Employment Statuses: Full-time
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: collaborate, hashpaid, learnpoint-lms, learnworlds
+Technology Slugs: collaborate, hashpaid, learnpoint-lms, learnworlds
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxxXXXxxxxxXxxxxxxxxXxxxXxXXXXXXXXXXXXxxxXXxxxxxXxXxxxXxxxxxxXxxxxxxxxXxxxXxxxXXxxxxxXxXxxxXXxxxxxXxXxxxXxxxxxxXxxxxxxxxXxxxXxxXxxxXxXxxXxXXxxxXxxxxxxXxxxxxxxxXxxx
+Final URL: xxxxxXXXxxxxxXxxxxxxxxXxxxXxXXXXXXXXXXXXxxxXXxxxxxXxXxxxXxxxxxxXxxxxxxxxXxxxXxxxXXxxxxxXxXxxxXXxxxxxXxXxxxXxxxxxxXxxxxxxxxXxxxXxxXxxxXxXxxXxXXxxxXxxxxxxXxxxxxxxxXxxx
+Source URL: xxxxxXXXxxxXxxxxxxxxXxxxXxxxxXxxxxXXXXXXXXXXXX
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:22:01.025686+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+Xx xxx xx XxxxxxXx xxxxxxx xxx xxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxx xxxxxxxxxX XXXX xxx xxx xxx xxx xxxx xxx xxx xxxxxxxXx xxxxxxx xxxxxxxx xxx xx xxxxxxxxxx xxxxxxx xxx xxx xx xxxxx xx xxxxxxxx xxx xxxxxxxxxxX XxXxx xx x xxxxxxx xx xxxxxxx xxxx Xxxxxxxxx xx xxxxxx xxx xxxx xxxxxxxxx xx xxxxxxx xxxxxxxX Xx xxxxxxx xxx xxxxxxx xxxxx xx xxx Xxxxxxxx xxxxxxxxxxxxxx xxxxxX XXXX xxx xxxxxxxxx x xxxxxxxxxxxxxxxxx xxxx xxxx xxxxxxx xxxxxxxxxxxX xxxxxxxxx xxxxxxxX xxxxxxxxxxX xxxxxxxxxxxX xxxxxxxxxxX xxxxxxxxxX xxx xxxxX
+
+XxXxx xxxxx xx xxxx xxxx xxxxxxxxxx xx xxx xx XxxxxxXx Xxxx Xxxxxxxxxx xx Xxxxx Xxxxx xx XxxxXX
+
+Xxx xxx xxxxxxxxxx xxxxx xxxxxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xx xxxxxxX xxxx xx xxxxxx xx x xxxxxxX Xx xxx xxxxxx xx x xxxxXxxxxx xxxxxxxxxxxX Xx xxxX xx xxxx xxx xxx xxx xxxX
+
+XXXX xx xxxxxxxxx xxxxxxx xx xxxx xxxxxxxx Xxxxxxxx Xxxxxxx Xxxxxxxxxxxxxx Xxxxx xxxx xxxx xxx xxxxXxxxxXX Xx x xxxxxxxx xxxxxxx xxxxx xx XxxxX xxx xxxx xxxxxx xxx xx xxx xxxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxX xx xx xx xxxxx xxxx xxx xxx xxxxxxxxX xxxxxxxxxxxxxX xxxxxxxX xxx xxxx xx xxxxx Xxxx xxxxxxX
+
+Xx xxxx xxxxxxxxX xxx xxxx xxxxxxxx xxxx xxxxxxxxx xx xxxxxxx xxxxxxxxxxx xx xxxxxxxx xx xxxxxxxxx xxxxx xxxxxxxx xxx xxxxxxxxX xxx xxxx xxxx xxxxxx xxx xxxxxxx xxxxxxXx xxxxxxxxx xxx xxxxxxxxxxX Xxxxxxxxx xxxxxxxxxxxxx xxxxxxxxx xxx xxxx xxxxx xxxxxx xxx xxxxxxxxx xxx xxxxxxxxxxX
+
+Xxx xxxxxxx xxxx xxxxxxxxx xxxxxx xx xxxxxxx xxxxxxxxxxX xxxxx xxxx xxx xx x xxxXxxxXxxx xxxxxxxx xxx xxxxx xxxxxxxx X xxxxx xxxx xx xxxxxxxxxx xxxx xxxxxxxxXx xxxxx xxx xxxx xxxx xx xxxxx xxxxx xx xx xxxxxxxxx xxxxx xxx xxx xxxxxx xx xxx xxxxxxxx xxxxxxx xxxxX
+
+Xxx Xxxxxxxxxxxxxxxx
+
+X Xxxxxxx xx xxxxxxxx xxxxxxx xxxx xxxxxX xxxxxxX xxxxxxxxx xxxxxX xxx xxxxxxxxxx
+X Xxxxxxxx xxxxxxxx xxxxxxxxxxxxx xx xxxxxxxx xxxxxxxxx xxx xxxxxxxx xxxx xxxxx xxx xxxxxxxxxxxxxxx 
+X Xxxxxxx xxxxxxxx xxxxxxxxxxX xxxxxx xxxxxxxx xxxxxxxX xxxxx xxxxxx xxxxxxx xx xxxxxxxx xxxxxxx xxxxxx
+X Xxxxxxx x xxxxx xxxxxxxxxx xxx xxxxx xxxxxxx xxxx xxxxx xxxxxxxx xxx xxxx xx 
+X Xxxx xx xxx xx xxxxxxxxxxX xxxxxxx xxxxxxxxX xxx xxxxxxxxxxxxxx xxxxxx 
+X Xxxxxx xxxxx xxxxxxx xxxxxxxx xxxxxxxx xxxxxxx xxx xxxxxx xxxxxxx xxxxxxxxx
+
+Xxxxxxxxxxxx
+
+X XxxxXxxxxxxxxx xxxx xx xxxxxxx xx xxxxx xxxxxxxx xxXxxxXxxx
+X Xxxxxxxxxx xxx xxxxxxxx xxxxxxxxxxxx xxxx xxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxx
+X Xx xxxxxxxxxxxx xxxxxxx xxxx x xxxxxx xxx xxxxxxxxx xxxxxx
+X Xxxxxxxxx xxxxXxxxx xxx xxxx xxxxxxxx xxxxxxxxx xxxx xxxx xxxxxxxx xxxxxX xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxx
+X Xxxxxxxxxxxxxx Xxxxxxxxxx xx XxxxxxxxX Xxxxxxxx xxxxxxxxxx xx xxxxxxxxxxxxxxXxxxxxxx xxxxx xxxxx xx x xxxxxx xxxxxX 
+
+Xxxxxxxx
+
+X XxxxXxxxx xxxxxxxxx xxx xxxxxxxx xxx xxx xxxxxxxx xxxx XxxxxxxXxxxxxxXxxxxxxX
+X Xxxxxxxxxxx xx xxxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxx xxxxxxxx xxxxxxxxxxx
+X Xxxxxxxxxxx xxxxxxX xxxxxxxxX xxxxxxxxxxxx xxxxxx xx xxxx xxxx
+X Xxxxxxxx xxxxxxx xxxxxxxx
+
+================================================================================
+Job ID: 288072913
+Job Title: Cross border AZ Tandem
+Normalized Title: None
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxxxx Xxxxxxxxx Xxx
+Company Domain: fleetwaytransport.com
+Industry: Transportation, Logistics, Supply Chain and Storage
+Industry ID: 116
+Company Size: 51-200
+Exact Employee Count: 51
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: Trucking company located in Brantford Ontario servicing Canada and the USA.
+SEO Description: Since 1983 - Specializing in the transportation of Van, Flat, Over Dimensional and Heay-haul across Canada and the United States. Fleetway T
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 553
+Jobs Last 30 Days: 186
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Brantford
+Short Location: Brantford, ON
+Long Location: Brantford, ON
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: ON
+Cities: 
+Continents: 
+Postal Code: N3T
+Latitude: 43.13265
+Longitude: -80.22109
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: 
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: abstract, excel, hashpaid, microsoft-excel, on-site, operator, tandem
+Technology Slugs: abstract, excel, hashpaid, microsoft-excel, on-site, operator, tandem
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxxXXXxxxXxxxxxxxxXxxxxxxxxxxXxxxXxxxxxxxXxxxxxxxxXxxxxxxXXXXXXXXXXxxxXxxxxxxXxxxxxx
+Final URL: xxxxxXXXxxxXxxxxxxxxXxxxxxxxxxxXxxxXxxxxxxxXxxxxxxxxXxxxxxxXXXXXXXXXXxxxXxxxxxxXxxxxxx
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXXXXXXXXxXXXXxxXX
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:08:41.204477+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+Xxxx xxxx XXXXXXXX xxxxxxxx xxxx xxxxxxX xxxx xxxxx xxxxxxxX
+
+
+
+Xxxxxxxx xx xxxxxxx xxx XX xxxxxxxxx xxxxxxx xxx xxxxx xxxxxx xxxxX Xxxxxxxxx xxxxxxx xxxx xxxxxxxxxX
+
+
+
+Xxx xxxxxxxxxx xxx xxxxx xxxx xxxxxxxx xxxx xx xxxxxxxx xx xxxx x xxxxxxx xx XXXxxxxx XXX xxxxxxx xxxxxxxxxxX x xxxxx xxxxxxxx xxx xxxx xx xx xxxx xxxx xxxx xxxxxx xxx xxxx xxx xxxxxxx xxxxX
+
+
+
+XXXX xxxXxx XXXX xxxxx xxx xxxxxxxx xx xxxx xx xxxxX xxx xxx xxxxxxxxx xxxx xxxx xxx xxxxxxx xx xxxxxx xxx Xxxxxx xxxxxxxx xxxxxxXX
+
+
+
+Xxx XxxxxX
+
+
+X Xxxxxxxxx xxxxxxx
+X Xxxxxx xxxxX xxxxxxxxx xxxxxxxx xxxx
+X Xxxx xxxxxxxxxx xxxxxxxxx
+X Xx xxxx xxxx xxxxxxxx
+X Xx xxxx xxxxx xxxxx
+
+
+Xx xxxxxX
+
+
+X XXXXXXXXX xxxx xx xxxxx xxx xxxxxxxxxxx xxxxxxx
+X Xxxxxxx xxxxx xxx
+X Xxxx xxxx xx xxx xxxxxxxxxx
+X Xxxx xxxxxxx
+X Xxxxxx XX xxxxxxx xxxxxX xxxxxxxxx
+X Xxx X xxxxx xxxx xxxxxx xxxxxxx XXxxxxxxx xxxxX xx xxxxxxxxxxxxx xxx
+X Xxxxxx xxxxxx XX xxxxxx xxxxxxxx xxxxxxxxx
+
+
+Xx xxxXxx xxxxxxxxxx xxxxx xxxxxxxx xx xxx xxxx xxxxxxxxx xx xxxxxx xxx xxxxxxxx xxxxxxxX xxxxx xxxxx xx xxxxxxx xx xxxx xxxxxxX
+
+  
+
+
+
+Xxxxxxxx xx xx xxxxx xxxxxxxxxx xxxxxxxxX
+
+
+
+================================================================================
+Job ID: 288073049
+Job Title: Cross border AZ Tandem
+Normalized Title: None
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxxxx Xxxxxxxxx Xxx
+Company Domain: fleetwaytransport.com
+Industry: Transportation, Logistics, Supply Chain and Storage
+Industry ID: 116
+Company Size: 51-200
+Exact Employee Count: 51
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: Trucking company located in Brantford Ontario servicing Canada and the USA.
+SEO Description: Since 1983 - Specializing in the transportation of Van, Flat, Over Dimensional and Heay-haul across Canada and the United States. Fleetway T
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 553
+Jobs Last 30 Days: 186
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Kitchener
+Short Location: Kitchener, ON
+Long Location: Kitchener, ON N2H 4G8
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: ON
+Cities: 
+Continents: 
+Postal Code: N2H 4G8
+Latitude: 43.46316
+Longitude: -80.49925
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: 
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: abstract, excel, hashpaid, microsoft-excel, on-site, operator, tandem
+Technology Slugs: abstract, excel, hashpaid, microsoft-excel, on-site, operator, tandem
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxxXXXxxxXxxxxxxxxXxxxxxxxxxxXxxxXxxxxxxxXxxxxxxxxXxxxxxxXXXXXXXXXXxxxXxxxxxxXxxxxxx
+Final URL: xxxxxXXXxxxXxxxxxxxxXxxxxxxxxxxXxxxXxxxxxxxXxxxxxxxxXxxxxxxXXXXXXXXXXxxxXxxxxxxXxxxxxx
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXxXxxXxxXXxXXXXXx
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:08:55.200693+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+Xxxx xxxx XXXXXXXX xxxxxxxx xxxx xxxxxxX xxxx xxxxx xxxxxxxX
+
+
+
+Xxxxxxxx xx xxxxxxx xxx XX xxxxxxxxx xxxxxxx xxx xxxxx xxxxxx xxxxX Xxxxxxxxx xxxxxxx xxxx xxxxxxxxxX
+
+
+
+Xxx xxxxxxxxxx xxx xxxxx xxxx xxxxxxxx xxxx xx xxxxxxxx xx xxxx x xxxxxxx xx XXXxxxxx XXX xxxxxxx xxxxxxxxxxX x xxxxx xxxxxxxx xxx xxxx xx xx xxxx xxxx xxxx xxxxxx xxx xxxx xxx xxxxxxx xxxxX
+
+
+
+XXXX xxxXxx XXXX xxxxx xxx xxxxxxxx xx xxxx xx xxxxX xxx xxx xxxxxxxxx xxxx xxxx xxx xxxxxxx xx xxxxxx xxx Xxxxxx xxxxxxxx xxxxxxXX
+
+
+
+Xxx XxxxxX
+
+
+X Xxxxxxxxx xxxxxxx
+X Xxxxxx xxxxX xxxxxxxxx xxxxxxxx xxxx
+X Xxxx xxxxxxxxxx xxxxxxxxx
+X Xx xxxx xxxx xxxxxxxx
+X Xx xxxx xxxxx xxxxx
+
+
+Xx xxxxxX
+
+
+X XXXXXXXXX xxxx xx xxxxx xxx xxxxxxxxxxx xxxxxxx
+X Xxxxxxx xxxxx xxx
+X Xxxx xxxx xx xxx xxxxxxxxxx
+X Xxxx xxxxxxx
+X Xxxxxx XX xxxxxxx xxxxxX xxxxxxxxx
+X Xxx X xxxxx xxxx xxxxxx xxxxxxx XXxxxxxxx xxxxX xx xxxxxxxxxxxxx xxx
+X Xxxxxx xxxxxx XX xxxxxx xxxxxxxx xxxxxxxxx
+
+
+Xx xxxXxx xxxxxxxxxx xxxxx xxxxxxxx xx xxx xxxx xxxxxxxxx xx xxxxxx xxx xxxxxxxx xxxxxxxX xxxxx xxxxx xx xxxxxxx xx xxxx xxxxxxX
+
+  
+
+
+
+Xxxxxxxx xx xx xxxxx xxxxxxxxxx xxxxxxxxX
+
+
+
+================================================================================
+Job ID: 288073061
+Job Title: Cross border AZ Tandem
+Normalized Title: None
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxxxx Xxxxxxxxx Xxx
+Company Domain: fleetwaytransport.com
+Industry: Transportation, Logistics, Supply Chain and Storage
+Industry ID: 116
+Company Size: 51-200
+Exact Employee Count: 51
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: Trucking company located in Brantford Ontario servicing Canada and the USA.
+SEO Description: Since 1983 - Specializing in the transportation of Van, Flat, Over Dimensional and Heay-haul across Canada and the United States. Fleetway T
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 553
+Jobs Last 30 Days: 186
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Windsor
+Short Location: Windsor, ON
+Long Location: Windsor, ON N8N 2R6
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: ON
+Cities: 
+Continents: 
+Postal Code: N8N 2R6
+Latitude: 42.30132
+Longitude: -82.84118
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: 
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: abstract, excel, hashpaid, microsoft-excel, on-site, operator, tandem
+Technology Slugs: abstract, excel, hashpaid, microsoft-excel, on-site, operator, tandem
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxxXXXxxxXxxxxxxxxXxxxxxxxxxxXxxxXxxxxxxxXxxxxxxxxXxxxxxxXXXXXXXXXXxxxXxxxxxxXxxxxxx
+Final URL: xxxxxXXXxxxXxxxxxxxxXxxxxxxxxxxXxxxXxxxxxxxXxxxxxxxxXxxxxxxXXXXXXXXXXxxxXxxxxxxXxxxxxx
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXXxXXxxXXXXXxxxXx
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:08:59.159635+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+Xxxx xxxx XXXXXXXX xxxxxxxx xxxx xxxxxxX xxxx xxxxx xxxxxxxX
+
+
+
+Xxxxxxxx xx xxxxxxx xxx XX xxxxxxxxx xxxxxxx xxx xxxxx xxxxxx xxxxX Xxxxxxxxx xxxxxxx xxxx xxxxxxxxxX
+
+
+
+Xxx xxxxxxxxxx xxx xxxxx xxxx xxxxxxxx xxxx xx xxxxxxxx xx xxxx x xxxxxxx xx XXXxxxxx XXX xxxxxxx xxxxxxxxxxX x xxxxx xxxxxxxx xxx xxxx xx xx xxxx xxxx xxxx xxxxxx xxx xxxx xxx xxxxxxx xxxxX
+
+
+
+XXXX xxxXxx XXXX xxxxx xxx xxxxxxxx xx xxxx xx xxxxX xxx xxx xxxxxxxxx xxxx xxxx xxx xxxxxxx xx xxxxxx xxx Xxxxxx xxxxxxxx xxxxxxXX
+
+
+
+Xxx XxxxxX
+
+
+X Xxxxxxxxx xxxxxxx
+X Xxxxxx xxxxX xxxxxxxxx xxxxxxxx xxxx
+X Xxxx xxxxxxxxxx xxxxxxxxx
+X Xx xxxx xxxx xxxxxxxx
+X Xx xxxx xxxxx xxxxx
+
+
+Xx xxxxxX
+
+
+X XXXXXXXXX xxxx xx xxxxx xxx xxxxxxxxxxx xxxxxxx
+X Xxxxxxx xxxxx xxx
+X Xxxx xxxx xx xxx xxxxxxxxxx
+X Xxxx xxxxxxx
+X Xxxxxx XX xxxxxxx xxxxxX xxxxxxxxx
+X Xxx X xxxxx xxxx xxxxxx xxxxxxx XXxxxxxxx xxxxX xx xxxxxxxxxxxxx xxx
+X Xxxxxx xxxxxx XX xxxxxx xxxxxxxx xxxxxxxxx
+
+
+Xx xxxXxx xxxxxxxxxx xxxxx xxxxxxxx xx xxx xxxx xxxxxxxxx xx xxxxxx xxx xxxxxxxx xxxxxxxX xxxxx xxxxx xx xxxxxxx xx xxxx xxxxxxX
+
+  
+
+
+
+Xxxxxxxx xx xx xxxxx xxxxxxxxxx xxxxxxxxX
+
+
+
+================================================================================
+Job ID: 288074419
+Job Title: Programmeur.euse IA sénior.e
+Normalized Title: None
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: XxxxxxX XxxX
+Company Domain: hasbro.com
+Industry: Entertainment Providers
+Industry ID: 28
+Company Size: 5001-10,000
+Exact Employee Count: 5001
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: Hasbro is a leading toy and game company whose mission is to entertain and connect generations of fans through the wonder of storytelling and exhilaration of play. Hasbro delivers engaging brand experiences for global audiences through toys, consumer products, gaming and entertainment, with a portfolio of iconic brands including MAGIC: THE GATHERING, DUNGEONS & DRAGONS, Hasbro Gaming, NERF, TRANSFORMERS, PLAY-DOH and PEPPA PIG, as well as premier partner brands.
+SEO Description: Hasbro is a leading toy and game company whose mission is to entertain and connect generations of fans through the wonder of storytelling and exhilaration of play.
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 1260
+Jobs Last 30 Days: 111
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Montréal
+Short Location: Montréal, QC
+Long Location: Montréal, QC H4C 1L8
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: QC
+Cities: 
+Continents: 
+Postal Code: H4C 1L8
+Latitude: 45.472652
+Longitude: -73.59014
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: 
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: 4d, a-b-testing, ability-lms, acquia, action, active-directory, acton, adobe-analytics, adobe-illustrator, adobe-indesign, adobe-photoshop, adobe-target, adobe-xd, ads, agile, ai, airflow, akamai, alchemer, alliant, amazon-dynamodb, amazon-ec2, amazon-ecs, amazon-eks, amazon-forecast, amazon-lambda, amazon-macie, amazon-rds-for-mysql, amazon-redshift, amazon-s3, amazon-sns, amazon-sqs, amazon-web-services, amazon-widgets, anaplan, ansible, apache-airflow, apex, api, appium, arduino, asana, ashby, assembly, atomic_2, attribution, auditboard, autodesk, autodesk-flow-production-tracking, aws, aws-certificate-manager, aws-cloudformation, aws-command-line-interface, aws-control-tower, aws-for-sap, aws-iam, aws-identity-and-access-management-iam, aws-iot, aws-key-management-service-kms, aws-kms, aws-lambda, aws-s3, aws-sdks, aws-shield, aws-waf, axure-2, azure-data-factory, azure-databricks, azure-devops, azure-monitor, azure-rbac, azure-sql, azure-sql-database, azure-stack, azure-synapse, azure-synapse-analytics, back-end, balance, balsamiq, bazaarvoice, beats, benchmark, blender, blockchain-com, blue-yonder, blueprint, box, bridge, bright-horizons, broad, broadly, builder, built-in, c-sharp, captivate, capture, catalyst, chargeback, circana, clair, claris-filemaker, cleartax, cli, close, cloud, cmake, coast, collaborate, complete, component, compose, confluence, contentful, core-audience, coupa, cover, cplusplus, craft, create-lms, crestron, crisp, crm, crystal, css, css-3, curated, currency, cybersecurity, d3, daily, data-visualization, databricks, datadog, dbt, deco, deputy, detox, devise, devops, discord, docker, dynamics-crm, e-conomic, e2open, economic, effective-software, embrace, emotion, engage-lms, envoyer, esko-webcenter, excel, faire, figma, filemaker, fmod, forecast, forever, forge, g-suite, getclayton, gfk, git, github, github-actions, gitlab, glidepath, global-analytics, globale, globalize, go, golang, google-ads, google-analytics, google-cloud-application-security, google-cloud-platform, google-maps, google-marketing-platform, google-search-console, google-slides, google-surveys, grafana, graphql, greenlight-com, groovy, growth-channel, h, hashpaid, houdini, html, html5, idera, illustrator, instagram, intel, interact, interactive, ios, ipsos-mma, iri, istanbul, java, javascript, jda, jenkins, jetpack, jira, journey, js, json, jupyter, kafka, kantar, keen, keyshot, keyword-tool, kotlin, kubernetes, laravel, learnpoint-lms, learnworlds, letter, level, lifecycle, linkedin, linux, localize-js, logility, looker, lumen, luminate, mac-os, mac-os-x, machine-learning, macos, magento, mana-workspace, market-leader, marvel, material-design, material-ui, medium, meetings, mesh, microsoft-access, microsoft-active-directory, microsoft-azure, microsoft-azure-storage, microsoft-azure-synapse, microsoft-excel, microsoft-forefront, microsoft-identity-manager, microsoft-office-365, microsoft-onedrive, microsoft-outlook, microsoft-power-bi, microsoft-power-bi-desktop, microsoft-powerpoint, microsoft-project, microsoft-sharepoint, microsoft-sql-server, microsoft-teams, microsoft-typescript, microsoft-visio, microsoft-windows-server, miro, ml, mode, monday, mongodb, moq, motion, mysql, netsuite, next-js, nielsen, nodejs, nosql, notion, numerator, oauth, okta, on-site, once, onedrive, onshape, optimizely, oracle, oracle-database, overview, pandas, path, payable, paypal, perforce, perl, photoshop, php, pig, playable, playwright, point, portal, portfolio-optimization, postgres, postgresql, postman, power-bi, powerbi, powershell, preflight, prezi, processing-js, profitero, prolific, prototype, provide-support, ptc-creo, ptv, purpose, python, pytorch, rails, react, react-native, ready, redgate, render, resonate, response, reval, reviewable, revue, roll-out, routine, ruby, rust, sailthru, salesforce, salesforce-commerce-cloud, salt, sandbox, sap, sap-ariba, sap-successfactors, sas, scikit-learn, screaming-frog, sem, semrush, seo, serverless, servicenow, shepherd, shopify, showdown, skeleton, sketch, sketchup, slack, slate, smartsheet, smtp, snowflake, snyk, solidworks, sonic, sphera, splunk, sprout, sprout-social, sql, squarespace, ssandc, sso-buzzfeed, stata, steam, stimulus, stream, streamline, stripe, substance-designer, successfactors, sumo-logic, sumologic, sustainalytics, syndigo, synth, tableau, taskforce, teamcity, teamwork, tensorflow, terraform, the-org, think-cell, threads, tiktok, toon-boom-harmony, tower, transcend, transformers, trello, trust, tubular, twitch, twitter, typescript, ui, ultipro, underscore, unity-3d, unreal-engine, uxpin, vault, vertex, vimeo, vistex, visual-basic, wave, weather, window-server, windows, windows-10, wordpress, workday, workspace, wrike, xcode, xml-format, yaml, zbrush, zendesk, zendesk-sell
+Technology Slugs: 4d, a-b-testing, ability-lms, acquia, action, active-directory, acton, adobe-analytics, adobe-illustrator, adobe-indesign, adobe-photoshop, adobe-target, adobe-xd, ads, agile, ai, airflow, akamai, alchemer, alliant, amazon-dynamodb, amazon-ec2, amazon-ecs, amazon-eks, amazon-forecast, amazon-lambda, amazon-macie, amazon-rds-for-mysql, amazon-redshift, amazon-s3, amazon-sns, amazon-sqs, amazon-web-services, amazon-widgets, anaplan, ansible, apache-airflow, apex, api, appium, arduino, asana, ashby, assembly, atomic_2, attribution, auditboard, autodesk, autodesk-flow-production-tracking, aws, aws-certificate-manager, aws-cloudformation, aws-command-line-interface, aws-control-tower, aws-for-sap, aws-iam, aws-identity-and-access-management-iam, aws-iot, aws-key-management-service-kms, aws-kms, aws-lambda, aws-s3, aws-sdks, aws-shield, aws-waf, axure-2, azure-data-factory, azure-databricks, azure-devops, azure-monitor, azure-rbac, azure-sql, azure-sql-database, azure-stack, azure-synapse, azure-synapse-analytics, back-end, balance, balsamiq, bazaarvoice, beats, benchmark, blender, blockchain-com, blue-yonder, blueprint, box, bridge, bright-horizons, broad, broadly, builder, built-in, c-sharp, captivate, capture, catalyst, chargeback, circana, clair, claris-filemaker, cleartax, cli, close, cloud, cmake, coast, collaborate, complete, component, compose, confluence, contentful, core-audience, coupa, cover, cplusplus, craft, create-lms, crestron, crisp, crm, crystal, css, css-3, curated, currency, cybersecurity, d3, daily, data-visualization, databricks, datadog, dbt, deco, deputy, detox, devise, devops, discord, docker, dynamics-crm, e-conomic, e2open, economic, effective-software, embrace, emotion, engage-lms, envoyer, esko-webcenter, excel, faire, figma, filemaker, fmod, forecast, forever, forge, g-suite, getclayton, gfk, git, github, github-actions, gitlab, glidepath, global-analytics, globale, globalize, go, golang, google-ads, google-analytics, google-cloud-application-security, google-cloud-platform, google-maps, google-marketing-platform, google-search-console, google-slides, google-surveys, grafana, graphql, greenlight-com, groovy, growth-channel, h, hashpaid, houdini, html, html5, idera, illustrator, instagram, intel, interact, interactive, ios, ipsos-mma, iri, istanbul, java, javascript, jda, jenkins, jetpack, jira, journey, js, json, jupyter, kafka, kantar, keen, keyshot, keyword-tool, kotlin, kubernetes, laravel, learnpoint-lms, learnworlds, letter, level, lifecycle, linkedin, linux, localize-js, logility, looker, lumen, luminate, mac-os, mac-os-x, machine-learning, macos, magento, mana-workspace, market-leader, marvel, material-design, material-ui, medium, meetings, mesh, microsoft-access, microsoft-active-directory, microsoft-azure, microsoft-azure-storage, microsoft-azure-synapse, microsoft-excel, microsoft-forefront, microsoft-identity-manager, microsoft-office-365, microsoft-onedrive, microsoft-outlook, microsoft-power-bi, microsoft-power-bi-desktop, microsoft-powerpoint, microsoft-project, microsoft-sharepoint, microsoft-sql-server, microsoft-teams, microsoft-typescript, microsoft-visio, microsoft-windows-server, miro, ml, mode, monday, mongodb, moq, motion, mysql, netsuite, next-js, nielsen, nodejs, nosql, notion, numerator, oauth, okta, on-site, once, onedrive, onshape, optimizely, oracle, oracle-database, overview, pandas, path, payable, paypal, perforce, perl, photoshop, php, pig, playable, playwright, point, portal, portfolio-optimization, postgres, postgresql, postman, power-bi, powerbi, powershell, preflight, prezi, processing-js, profitero, prolific, prototype, provide-support, ptc-creo, ptv, purpose, python, pytorch, rails, react, react-native, ready, redgate, render, resonate, response, reval, reviewable, revue, roll-out, routine, ruby, rust, sailthru, salesforce, salesforce-commerce-cloud, salt, sandbox, sap, sap-ariba, sap-successfactors, sas, scikit-learn, screaming-frog, sem, semrush, seo, serverless, servicenow, shepherd, shopify, showdown, skeleton, sketch, sketchup, slack, slate, smartsheet, smtp, snowflake, snyk, solidworks, sonic, sphera, splunk, sprout, sprout-social, sql, squarespace, ssandc, sso-buzzfeed, stata, steam, stimulus, stream, streamline, stripe, substance-designer, successfactors, sumo-logic, sumologic, sustainalytics, syndigo, synth, tableau, taskforce, teamcity, teamwork, tensorflow, terraform, the-org, think-cell, threads, tiktok, toon-boom-harmony, tower, transcend, transformers, trello, trust, tubular, twitch, twitter, typescript, ui, ultipro, underscore, unity-3d, unreal-engine, uxpin, vault, vertex, vimeo, vistex, visual-basic, wave, weather, window-server, windows, windows-10, wordpress, workday, workspace, wrike, xcode, xml-format, yaml, zbrush, zendesk, zendesk-sell
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxxXXXxxxxXxxxxxxXxxxXxxxXXxxxxXXXXXXxxXXxxxxxxxxxxXxxxxXXXXxXXXXXXxxxxXxXXxXXXXXXxXXXXXXXXXXXXXXXXXXXXXxxxxXxXXXxxxXxxxxxxXXxxxxx
+Final URL: xxxxxXXXxxxxXxxxxxxXxxxXxxxXXxxxxXXXXXXxxXXxxxxxxxxxxXxxxxXXXXxXXXXXXxxxxXxXXxXXXXXXxXXXXXXXXXXXXXXXXXXXXXxxxxXxXXXxxxXxxxxxxXXxxxxx
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXxXXXxxXXXxXxXXXX
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:11:05.842848+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+Xxxx XxxxxxX xxxxx xxxxxxx xxx xXxxxxx xx xxxxxxx x xxxxx xx xxxxxx xxxxX
+
+  
+
+Xxxx xxxxxxx xxx xxx xxxxxxxxx xxxx xxxx xxxxx xxx xxx xxxx xxx xxxxxx xxxx xxxxxxX xx xxx xxxxxxxx xxxx xx xxxxxxxxxxxxx xxx xxxxxxxxxx xxx xxxxxxx xx xxxxx xxxxxxx xxxxx xxx xxxxx xxxxxX XXxxx xxxxxxxx xxxx xxxxxx xxx xxxx xxxxxxxx xxxx xxxxxxxX xxxx xxxxxxX Xx xxxx xxxxxxxx x xx xxx xxxx xx xxxxx xxx xx xxxxxxxxxxx xx xxxxxxxxxx x xxxxx xxxxxxxx xxxxxxxxxxX xxxx xxx xxxx xxx xxxxX Xx xxxx xxx xxxxxx xx Xxxxxxx xx xxx XxxxxX xxxx xxxxxxxxxxx x xxxxxxxx xx xxxxxxxxx xx xxxx xxx xxxxxxxxx xxx xxxxxxxXxxxxx xx xxxxxxxxxxxxXxxxxx xxxxxx xxx xxxxxxxxxX
+
+  
+
+Xxxx XxxxxxX xx xx xx xxxxxxxxxxx xx xxxxx xx xxxx xxx xx xxxx xxx xxxxxx xXxxx xxxxxx xxxxxxx xx xxxxxxxxxxx xxxx xx xxxxxxx xxxxxxxX
+
+  
+
+Xxxxxxxxxxx xx xxxxx
+
+  
+
+Xxxxxx xxx x xx xxxxxxxxx xXxxXx XxxxxxxxxxxXxxxx XX xxxxxxXx xxxxxxxxx xxxxxxxxXx xxxx xxxxxxxxx xxxxx xxxxxx xx xxxxxx xxxxxxxxxxX Xxxx xx xxxxX xxxx xxxxx xxxxxxxxx xx xxxxxxxxxx xxx xxxxxxxx xx xxx xxxxxxxxxxxxx xXxxxxxxxxxxxx xxxxxxxxxxxx xx xxxxx xxxxxxx xxxx xxxxx xxxxxxx xxxxxxX XxXxx xxxxxxxxXx xxxxxXx xxx xxXx xxxxxxxxxxxXxxxx xxxxxxxxxxxxXxx xx xxxxxxxxxxxxxXxxxx xxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxxxx xx xxxxxxxxxxxxx xx xxxx XXXX
+
+  
+
+Xx xxxxxxxxx xXxxXx XxxxxxxxxxxXxxxx XX Xxxxxx xxxx Xxxxxx
+
+X Xxxxxxxxxx xxxx xXxxxxxx xx xxxxxxxxxx xxxx xxxxx xxx xxxxxx xxx xxxxxxxx xXXX
+X Xxxxxx xx xxxx xxxxxX xxxxxxxxxxX xxxxxxxxxxx xx xxxxxxxx
+X Xxxxx x xxxxxxxxxX xxxxxxxxxxX xxxxxx xx xxxxxx xx xxxxx xXxxxxxxxxxxxx xx xxxxxxxx XX xxxxxx xxxx xxxxxxxx xxx xxxxxxxxx xx xxxxxx
+X Xxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xx xxxxxxx xxx xxxxxxxxx xx xxxxx xxxxxxx
+X Xxxxxxxx xx xxxxxxxxx xxx xxxxxxxx xxxxxxxxx
+X Xxxxxxx xxx xxxxxxxxxxxx xx xxxxxxxx xx xxxx xx xxxxx xxxxxxx
+X Xxxxxxxx x xXxxxxxxx xxxx xxxxxxxxxx xxxx xxx xxxxxxxx xx xxx xx xXxxxxxxxxx xxxxxxxxX
+
+  
+
+XxxxxxxxxxX xx xxx xx xxxxxxxx x xXxxxxxx
+
+X Xxxx xx X xxx xXxxxxxxxxxx xxxx xx xxxxxxxxxxxxx xXxxxxxxxxxxxx xxxxxxxxxxxx xxxx xxx xxxxxx XXX
+X Xxxxxxxxx xxxx xx xx xxxxxxxxx xxx xxxxxxxx xxxxxxxx X Xxxxxxxxxxxx Xxxxxxxxxxxx xx XxxX Xxxxxxx xXXxxxxxxxxX Xxxxxxx xx Xxxxxxxxxx
+X Xxxxxxxxxx xxxxxxxxxxxxxxx xxxx Xxxxxxxx Xxxx
+X Xxxxxxxxxx xxxxxxxx xx xxxxxxx xx xxxxxxxxxxxxx XXXXX
+X Xxxxx xxxxxxxxxx xx xxxxxxx xxxx xx xxxxxx xxxxxxx xxxxxxxxxxxxxxxx
+X Xxxxxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xx xxxxxxxx xx xxxxx xxxxxxx xxxxx xXxxxxxxxxxxxxxx
+X Xxxxxx xxxxx xxxx xXxxxxxxxxxx Xxxxxx Xxxxxx
+X Xxxxxxxxxx xxxxxxxxxxxxx xxxxxxx xx xxxxxx xx xxxxxxxx xx xx xxxxxxxX
+
+  
+
+Xxxx xxxxxx xx xxxxxxxxx xxxxxxx xXxxxxxxx xxx xxxxxxx
+
+  
+
+Xxxxxx xXxxxxxx x xxxxxx xxx xxxxxxx xx xxxxxxx xxxxxx x xxxxxx xxxxxxxxX xxxx xxxxx xxx xxxxxxxx xxxxxxxx X xxxX xxxxX xxxxxxxxxxx xxxxxxxxX xxxxxxxx xxxxxxxxX xxxx xXxxxxxxxX xxxxxxxxX xxxxxxxxxxxX xx xxxxx xxxxx xxxxxxxxxxxxx xxxxxxxxX Xxxx xxxxxxx xxxxxxxxxxx xx xx xxxxxxxxxxxxx xx xxxxxxx xxxxxxxxxxx xx xxxxxx xXxxxxxxX xxxx xxxxxx xxxxxx xxxx xxxxxxxxxx xxxxxxxxxx xx xxxxxxxxxxxxx xx xXxxxxxxxxxxxxX
+
+  
+
+Xxxx xxxxxxxxxx x xx xxx xxx xxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xXxx xxxxxxxxxxxxx xxxxxxxxxxx xxxx xxxxxxxxxx xx xxxxxxxxx xx xxxxxxxxxxxX xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxxxxxxxx xx xXxxxxxx xx xxxx xxxxxxxxxx xXxxxxxx xxxxxxxxx xx xxxxxxxxxx xxxx x xXxxxxxxX Xxxxxxxx xxxx xxxxxxxxx xxxx xxxxxxxx xx xxxxxxxxxxxxxX
+
+
+XXXxxxxx
+
+
+
+================================================================================
+Job ID: 288069275
+Job Title: Snow Removal Operator (FT, PT, CAS, SEAS)
+Normalized Title: snow plow operator
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxx Xxxxx Xxxxxxxx Xxxxxxxxxx
+Company Domain: None
+Industry: Construction
+Industry ID: 48
+Company Size: None
+Exact Employee Count: None
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: None
+SEO Description: None
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: 29
+Jobs Last 30 Days: 2
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Moncton
+Short Location: Moncton, NB
+Long Location: Moncton, NB
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: NB
+Cities: 
+Continents: 
+Postal Code: None
+Latitude: 46.11425
+Longitude: -64.76932
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: Temporary, Part-time, Seasonal, Full-time
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: abstract, captivate, collaborate, complete, create-lms, crew, formal, foundation, g-suite, google-surveys, hashpaid, keen, learnpoint-lms, learnworlds, meetings, microsoft-forefront, on-site, operator, overview, processing-js, provide-support, ready, response, streamline, thrive, weather
+Technology Slugs: abstract, captivate, collaborate, complete, create-lms, crew, formal, foundation, g-suite, google-surveys, hashpaid, keen, learnpoint-lms, learnworlds, meetings, microsoft-forefront, on-site, operator, overview, processing-js, provide-support, ready, response, streamline, thrive, weather
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxXxxxxxxxXxxxxxxxxXxxXxxXxxxXxxxxXxXxXXXxXxXXxXxXX
+Final URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxXxxxxxxxXxxxxxxxxXxxXxxXxxxXxxxxXxXxXXXxXxXXxXxXX
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXxXxXXXxXxXXxXxXX
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:03:20.723630+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+XXXXXX Xxxxxxxx XxxxxxxxXX xx xxxxxx XXXxxx Xxxxxxx XxxxxxxxxXXX Xxxx xxx xxxxxxxxx xxxx xxxx xxxxxx xxxxxx xx xxxxxxxxxxx xxxxxxxxxxx xxx xxxxxxxxxx xxxxxxxxxxX
+
+XXXxx XxxxxxxxxxxXX
+
+X Xxxxxxx xxxxxxx xxxx xxxxxxx xxxxxxxxx xxxx xx xxxxxxX xxxxxxxxX xxxxxxxxX xxxxxX xxx xxxxx xxxxxxx xxxxxX
+X Xxxxxxx x xxxxxx xx xxxxXXxxxxx xx xxxxxx xxxx xxxx xxxxxxx xxxx xxx xxxxxxxxxx xxxxxxxxxxX
+X Xxxxxx xxx xxxxx xxxx xxxx xxxxxxxxX xxxxxxxxxX xxx xxxxx xxxxx xxxxxxxxxxxx xx xxxxxxxxxX
+X Xxxx xx xxxxxxxxxxx xxxxxxx xxxxxxxxxx xxxxxxxx xxxx xxxxxxxxxxxxX xxxxxxxxxxX xxx xxxXXxxxXXxxxxx xxxxxx xx xxxx xxxxxxxxxx xxxxxX
+X Xxxx xxxxxxxx xxxxxxx xx xxxxxxx xxx xxxxxxxxxxx xxxx xx xxxxX xxxxxxxxx xxxxxxxxxxxX xxx xxxxxxxxx xxxx xxx xxxx xxxxX xx xxxxxxxxX
+X Xxxxxxxx xxxxxxxxxx xxxxxxxxxxxxx xxxx xxxxxxxx xxx xxxxxxxxX
+X Xxxxx xxxx xxx xxxx xx xxxxxxxxxx xx xxxxxxX
+
+XXXXXXxxxXXXX XXxxxxxxxxxxxxxxx xxx xxxx xxxxx xx xxx xxxxxxxx xxxx xxxxx xxx xxx xxx xxxxxxxxxxXx xxxxxx xxx xxxxxxxxxxXX
+
+XXXxxxxxxxxxxxXX
+
+X XXX xxxxx xx xxxxxxxxxx xx xxxxxxxxx xxxx xxxxxxx xxxxxxxxx xx xxxxxxxxX
+X Xxxxxxxx xxx xxxxxxxxx xx xxxxxxxxxx xxxx xxxxxxxxxxX
+X X xxxxxxxx xxxxxxxx xxx xxxxxxxxxxx xx xxxx xx x xxxx xx x xxxxX
+X Xxxxxxx xx xxxxxxxxx xxx xxxx xx x xxxxXXxxxxx xxxxxxxxxxxX
+X XxxxxxXXxxxxxxxx xxxx xxxxxxxxx xx xxx xxxxxxxxx xx xxxxxx xxxxxx xxxxxxxxxX
+X Xxxxxxx xx xxxxxxx xxxx xxxxxxX
+X Xxxxxxxxxxx xx xxxxxx xxxxxxxxxx xxx xxxxx xx xxxxxxX
+X Xxxxxxx xx xxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxxxxX
+X Xxx xx Xxxxxxxx Xxxxxxxxxx Xxxxxxxxx XXXXXX
+X Xxxxx xxxxxxXx xxxxxxxxX
+X Xxxxx xxxxxxXx xxxxxxxX
+
+XXXxxxxxxxXX
+
+X Xxxxxxxxxx Xxxx Xxxxxxxxxxx
+X Xxxxxxxxxxx Xxxxx
+X Xxxxxxxxxxx xxx Xxxxxxxxxxx Xxxxxx xx xxxxxx xxx xxxxxxxxxxxxX
+
+XXXxxx Xxx XxxxXXX  
+Xx xxxXxx xxxxx xx xxxxxxxxxx xx x xxxxxxxxx xxxx xxx xxxxxxx xxx xxxxxxxxxxx xxxxxx xxx xxxxxx xxxxxxX xx xxxx xx xxxx xxxx xxxX XXXxxxx xxxXX xx xxxxxx x XXXxxx Xxxxxxx XxxxxxxxXX xxxx XXXX Xxxxxxxx XxxxxxxxX
+
+Xxx XxxxxX XxxxXXxxxxX XxxxXXxxxxX XxxxxxX Xxxxxxxx
+
+XxxX XXXXXXXXXXXXXXXX xxx xxxx
+
+XxxxxxxxX
+
+X XxXXxxxx xxxxxxx
+
+XxxxxxxxX
+
+X Xxx xxxxx
+X Xxxxx xxxxx
+
+Xxxxxxx xx xxxxxxxXxxxxxxxxX
+
+X XxxxxxxX XXX xxxxxxxx xxxxxxx xx xxxx xx xxxxxxxx xxxxxx xxxxxxxx xxxx XxxxxxxxxX
+
+XxxxxxxxxxX
+
+X Xxxxxxxxx xxxx xxxxxxx xxxxxxxxxX X xxxxx XxxxxxxxxX
+
+XxxxxxxXXxxxxxxxxxxxxX
+
+X Xxxxx X XxxxxxxxxX
+
+Xxxx XxxxxxxxX Xx xxxxxx
+
+
+
+================================================================================
+Job ID: 288069559
+Job Title: Concrete Boom Pump Operator
+Normalized Title: concrete pump operator
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxx Xxxxxxxx Xxxxxxx
+Company Domain: None
+Industry: None
+Industry ID: None
+Company Size: None
+Exact Employee Count: None
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: None
+SEO Description: None
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: None
+Jobs Last 30 Days: None
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Didsbury
+Short Location: Didsbury, AB
+Long Location: Didsbury, AB
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: AB
+Cities: 
+Continents: 
+Postal Code: None
+Latitude: 51.66681
+Longitude: -114.13529
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: Full-time
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: 
+Technology Slugs: 
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxxxxxXxxxxXxxxxXxxxxxxxxXXxXxxXXXXXxXxXXx
+Final URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxxxxxXxxxxXxxxxXxxxxxxxxXXxXxxXXXXXxXxXXx
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXXxXxxXXXXXxXxXXx
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:03:29.192341+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+XXXxx XxxxxxxXX  
+Xx xxx xxxxxxx xxx x xxx xxx xx xxxxxxx xxxx xx xxxx xx xxxxxxx xxxxxxxxxX xxxxxxxx xxxxxxxxxX xxx xxxx xxxxxxxxxxx xxx xxxxxx xxxxxX Xxxxx xx xxxx xx xxxx xxxxx xxxxX Xxxx xxx xx xxx xxx xxxxxxxxxX xx xxxx xxxxX Xx xxx xxxxx xxxxxx xxxxxx xxx xxxx xxxxxxxX xxxx xx xxx xxx xxx xxx xxxX Xxx xxxx xx xxxxxxxxxxx xxx xxxxxxxxxxxX xxxxxxxxxX xxx xxxxxxx x XXXXx XX xxxxx xx xxxxxxxxx xxxx xxXx xxxx xxxxxxxX Xxxxx XX xxxxx xx xxx xx xxxxxxxxx xxx xxxx xx xxx xxxxx xxxX Xxxx xx xxxxxxxxx xxx xxxx xxxx xxx xx xxxX XXXX XXXXXXX xx xxxxx X xxxxxxxxxxX
+
+XXXxxxxxXX
+
+X Xxxxxxx xxxxxxxx xxxxx xx xxxxxxxxx xxx xxxx xxxxxxxx xx xxxxxxx xxxxxxxxxxxx xxxxxxxxX
+X Xxxxxx xxxxxx xxxxx xxx xxxxxxxxxxx xx xxxxxxx xxxxxxxxx xxxxxx xxx xxxxx xxxX
+X Xxxxxxxxxxx xxxx xxxx xxxxxxxxxxx xxx xxxxx xxxx xxxxxxx xx xxxxxxxxx xxx xxxx xxxxxxx xxx xxxxxxx xxxxxxxxX
+X Xxxxxxx xxxXXxxxxxxxxx xxxxxx xx xxxxxxxxx xx xxxxxx xxxxxx xxx xxxxxxxxxxxxxX
+X Xxxxxxxx xxxxx xxxxxxxxxxxxx xxxx xxxxxx xxxx xx xxxxxxxxxx xxxxxxxxx xxx xxxxxx xxxxxxxx xxxxxxxxx xx xxxxxxxxX
+X Xxxxxxx xxxxxxx xxxxxxxxxxx xx xxxxxxxxxX xxxxxxxxx xxxxxxxx xxx xxxxx xxxxxxxX
+X Xxxxxx xxx xxxxxx xxxxxxxxx xxx xxxxxxxxxxx xxxxx xxXXxxxxX
+
+XXXxxxxxxxxxxxxxXX
+
+X Xxxxxx xxxxxxx xxxx xxxx
+X Xxxxxx xxxxxxxxxx xxxxxxx xxxxxxx xx xxxxxxxxxxxx xxxxxxxxx xxxxxxxxxxxX
+X Xxxxxxxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxxx xx xxxxxxxxx
+X Xxxxx xxxxx X XX xxxxxxx
+X Xxxxxxxxx xxxxxxxXXxxxxxxx xxxxxx xxx xxxxxxxxx xx xxxxxxX
+X Xxxxxxx xx xxxx xx xxxxxxx xxxxxxx xxxxxxxxxx xxx xxxxxxxxxx xxxxxxxxx xxxxxxxxxxxxX
+X Xxxxxx xxxxxxxxxxxxx xxxxxx xxx xxxxxxx xx xxxx xx xxxx xx x xxxxX
+
+Xx xxx xxx xxxxxxxxxx xxxxx xxx xxxxxxxxxxxx xxxxxxxx xxx xxxxxxx xxx xxxxxxxxx xxxxxxX xx xxxxxxxxx xxx xx xxxxx xxx xxxx xxxxxxxx xxxxxxxxxxx xx x Xxxxxxxx Xxxx XxxxxxxxX
+
+Xxx XxxxX XxxxXXxxxx
+
+XxxX XXXXXXXXXXXXXXXX xxx xxxx
+
+Xxxxxxxx xxxxxX XX X XX xxx xxxx
+
+XxxxxxxxX
+
+X Xxxxxx xx Xxxxxx
+
+Xxxx XxxxxxxxX Xx xxxxxx
+
+
+
+================================================================================
+Job ID: 288069621
+Job Title: Cleaner
+Normalized Title: cleaner
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: XxxxXx Xxxxxxxx Xxxxxxx
+Company Domain: None
+Industry: None
+Industry ID: None
+Company Size: None
+Exact Employee Count: None
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: None
+SEO Description: None
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: None
+Jobs Last 30 Days: None
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Edmonton
+Short Location: Edmonton, AB
+Long Location: Edmonton, AB
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: AB
+Cities: 
+Continents: 
+Postal Code: None
+Latitude: 53.55014
+Longitude: -113.46871
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: 
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: 
+Technology Slugs: 
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxxxxXxxXxxxxXxXxXXXxX
+Final URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxxxxXxxXxxxxXxXxXXXxX
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXxxXxxxxXxXxXXXxX
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:03:29.787955+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+XXXxx XxxxxxxxXX  
+Xx xxx xxxxxxx x xxxxxxxxx xxx xxxxxxXXxxxxxxxx Xxxxxxx xx xxxx xxx xxxxX Xxx xxxxx xxxxxxxxx xxxx xxxx x xxxxxxx xxxx xx xxxxxxxxxxx xxxxxxxxxxx xxx xxxxxxx xx xxxxxxx Xxxxxxxx xxx xxxxxxxxxxx xxxxxxxxxX xxxxxxxx x xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxx xxxxxxxxxX Xxxx xxxxxxxx xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxxxxx xxxxx xxx xxxxxxxxxxx xxxxxxX xxxxxxxxxxxx xx xxx xxxxxxx xxxxxx xxx xxx xxxxxxxX  
+Xxxx xx x XxxXXXxxxxxxxxx XxxxxxxxX
+
+XXXxxxxxxxxxxxxxxxXX
+
+X Xxxxxxx xxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxxxxxxxX xxxxxxxX xxxxxxxX xxx xxxxxxxxx xx xxxxxxxx xxxxxxxxxxx xx xxxxxxxx xxxxxX
+X Xxxxxx xxx xxxxxxxxx xxx xxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xxxxxxxxX
+X Xxxxxxxx xxxxxxxxxxx xx xxxxxx xxxxxX xxxxxxxxX xxxxxxxxX xxxxxxxxX xxx xxxxxxxxxX
+X Xxxxxx xxxxx xxxxxxxx xxx xxxxxxxxxX
+X Xxxxxxx xxxxxxxx xxxx xxxxxxxx xxxxx xx xxxxxxxxX xxxxxxxxx xxxxxx xxxxxxx xxx xxxxxxxx xxxxxx xxxxxxxxX
+X Xxxxxx xxx xxxxxx xx xxxxxxx xx xxx xxxxxxxxxx xxxxxxxxX
+X Xxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxxx xxx xxxxxx xxxxxxxxxx xx xxxxxx x xxxx xxxxxxx xxxxxxxxxxxX
+
+XXXxxxxxxxxxxxXX
+
+X Xxxxxxxx xxxxxxxxxx xx xxxxxxxxxxx xxxxxxxx xx xxxxxxxxx xxx xxx xxxxxxxxX
+X Xxxxxx xxxxxxxxx xx xxxxxx xxxx xxx xxxxxxx xx xxxxxxxx xxxx xxxxxxxxx xx xxxxxxxxxxxX
+X Xxxxxxx xx xxxx xxxxxxxxxxxxx xx xxxx xx xxxx xx x xxxxX
+X Xxxx xxxx xxxxxxxxxx xxxxxx xx xxxxxxxx xxxxx xxxxxxxxxxx xxxxxx xxxxxxxxxx xxxx xxxxxxX
+X Xxxxxxxx xxxxxxx xx xxxxxxx xxxxxxxx xxxxxx xxxx xxx xxxxxxx xxxxxxxX xxxxxxxX xxx xxxxxxxx xxx xxxxxxxx xxxxxxxX
+X Xxxxxxxxx xx xxxxxx xxxxxxxx xxxxxxxxxx xxx xxx xx xxxxxxxx xxxxxxxx xx x xxxxX
+X X xxxxxxxx xxxx xx xxxxxxxxxxxxxx xx xxxxxxxx xx xxxxxxx xxxxxxx xxxxxxx xxxxxxxxxX
+
+Xxxx xxx xxxx xx x Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxx xxxxxX xxxxX xxx xxxxxxxxx xxxxxxxxxxxx xxx xxxxxxxxX
+
+Xxx XxxxxX XxxxxxxxxX Xxxxxx
+
+Xxxxxxxx xxxxxX X X XX xxx xxxx
+
+XxxxxxxxX
+
+X Xxxxxx xxxxx
+X XxXXxxxx xxxxxxx
+
+Xxxxxxxx xxxxxxxx xxxxxxxxxxxX
+
+X Xxxxxx xxx xxxxxxxx
+
+XxxxxxxxX
+
+X Xxxxxx xx Xxxxxx
+X Xx xxxx
+
+XxxxxxxxxxX
+
+X XxxxxxxxX X xxxx XxxxxxxxxxX
+X XxxxxxxxxxX X xxxx XxxxxxxxxxX
+
+XxxxxxxxX
+
+X Xxxxxxx XxxxxxxxxX
+
+XxxxxxxXXxxxxxxxxxxxxX
+
+X Xxxxxxx Xxxxxxx XxxxxxxxxX
+
+XxxxxxxxX
+
+X XxxxxxxxX XX XxxxxxxxxX
+
+Xxxx XxxxxxxxX Xx xxx xxxx
+
+
+
+================================================================================
+Job ID: 288071382
+Job Title: Food Safety Quality Assurance Manager
+Normalized Title: food safety manager
+Seniority: Mid-Level
+Has Blurred Data: True
+
+=== Company Information ===
+Company: Xxxxxxxxx Xxxxxx
+Company Domain: None
+Industry: None
+Industry ID: None
+Company Size: None
+Exact Employee Count: None
+Founded Year: None
+Company Logo: None
+LinkedIn URL: None
+LinkedIn ID: None
+Apollo ID: None
+Is Recruiting Agency: None
+Company Description: None
+SEO Description: None
+
+=== Company Metrics ===
+Annual Revenue: None
+Total Funding: None
+Last Funding Date: None
+Last Funding Amount: None
+Funding Stage: None
+Number of Jobs: None
+Jobs Last 30 Days: None
+Alexa Ranking: None
+Stock Symbol: None
+Stock Exchange: None
+
+=== Location Details ===
+Location: Cambridge
+Short Location: Cambridge, ON
+Long Location: Cambridge, ON
+Country: Canada
+Countries: 
+Country Code: CA
+Country Codes: CA
+State Code: ON
+Cities: 
+Continents: 
+Postal Code: None
+Latitude: 43.421326
+Longitude: -80.35567
+
+=== Work Type ===
+Remote: False
+Hybrid: False
+Employment Statuses: Full-time
+
+=== Salary Information ===
+Salary Range: 
+Min Annual Salary: None
+Max Annual Salary: None
+Min Annual Salary (USD): None
+Max Annual Salary (USD): None
+Average Annual Salary (USD): None
+Currency: None
+
+=== Technologies ===
+Technology Names: 
+Technology Slugs: 
+
+=== Hiring Team Contacts ===
+No hiring team information available
+
+=== URLs & Dates ===
+Job URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxXxxxxxxXxxxxxxxXxxxxxxxxxXxxxxxxxXXXXxxXxxxxxXxXxx
+Final URL: xxxxXXXxxXxxxxxxXxxxXxxxXxxxxXxxxxxxXxxxxxxxXxxxxxxxxxXxxxxxxxXXXXxxXxxxxxXxXxx
+Source URL: xxxxxXXXxxxxxxXxxxXxxxxxxxXxxXXXXxxXxxxxxXxXxx
+Date Posted: 2024-12-08
+Date Discovered: 2024-12-08T22:05:31.002784+00:00
+Reposted: False
+Date Reposted: None
+
+=== Description ===
+XXXxx XxxxxxxxXX  
+Xx xxx xxxxxxx x xxxxxxxxx xxx xxxxxxxxxxxxx Xxxx Xxxxxx Xxxxxxx xx xxxxxxx xxx xxxxxxxxx xxxx xxxxxx xxxxxxxxx xxxxxx xxx xxxxxxxxxxxxX Xxx xxxxx xxxxxxxxx xxxx xxxxxx xxxxxxxxxx xxxx xxxxxX xxxxxX xxx xxxxxxx xxxxxxxxxxx xxxxx xxxxxxxxx x xxxxxxx xx xxxx xxxxxx xxxxx xxx xxxxx xxxxxxxX Xxxx xxxx xx xxxxxxx xx xxxxxxxxxxx xxx xxxxxxx xxxxxxxxx xx xxxx xxxxxxx xxx xxxxxxX xxxxxxxxxx xxxxxxxxxx xxx xxxxxxxxx xxx xxx xxxxxX
+
+XXXxxxxxXX
+
+X XxxxxxxX xxxxxxxxxX xxx xxxxxxxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxxx xxxxxxxxxx xxxxxxxxxxxxX
+X Xxxxxxx xxxxxxx xxxxxx xxx xxxxxxxxxxx xx xxxx xxxxxxxx xxxxxxxxx xx xxxxxx xxxxxxxxxx xxxx xxxxxx xxxxxxxxxX
+X Xxxxx xxxxx xx xxxx xxxxxx xxxxxxxxxX xxxxxxxxx xxxxxx xxxxxxxxX xxxxxxxX xxx xxxxxxxxxxx xxxxxxxxxxX
+X Xxxxxxx xxx xxxxxxx xxxx xxxxxxx xx xxxx xxxxxx xxxxxxxxx xxx xxxxxx xx xxxxxxxx xxxxx xxx xxxxxxxxxxxX
+X Xxxxxxxxxxx xxxx xxxxxXXxxxxxxxxxx xxxxx xx xxxxxxx xxx xxxx xxxxxx xxxxxxxx xx xxxxxxxxxx xxxxxxxxX
+X Xxxx xxxxxxx xx xxxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xx xxxxxxxxxxx xx xxxxxx xxxxxxx xxxxxxxxxxX
+X Xxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xxx xxxxxx xx xxxx xxxxxx xxxxxxxxxxx xxx xxxxxxxxxx xxxxxxxX
+
+XXXxxxxxXX
+
+X Xxxxxx xxxxxxxxx xx xxxx xxxxxx xxxxxxxxxxx XxXxXX XXXX XXXXX xxx xxxxxxxx xxxxxxxxxX
+X Xxxxxxxxx xxxxxxxxxxxxx xxxxxx xxx xxxxxxxxx xxxxxxxx xxx xxxxxxxxxxxxx xxxx xxxxx xx xxx xxxxxxX
+X XxxxxxXXxxxxxxxx xxxx xxxxxx xxxxxxxxxx xxxxxx xxx xxxxxxxxxx xxxxxx xxx xxxxxxxxxxxX
+X Xxxxxxx xx xxxx xxxxxxxxxxxxx xx xxxx xx xxxx xx x xxxx xx x xxxxXXxxxxx xxxxxxxxxxxX
+X Xxxxxxxxxxx xx xxxxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx xxx xxxxxxxxxX
+X Xxxxxxxxxxxxx xx xxxx xxxxxx xxxxxxxxxx XxXxXX XxxxXxxxX xx xxxxxxxxx xxx xxx xxxxxxxxX
+X Xxxxxx xxxxxxxXXxxxxxxx xxxxxx xx xxxxxxx xxxxxxxxx xxxxxx xxxxxxxxxxxX
+
+Xxxx xx xx xxx xxxxxxxxxx xx xxxxxxxxx xxxxX xxxxXXxxxxxxx xxxx xxxxxxxx xxxxx xxxxxxxxx x xxxxxxx xx xxxxxxxxxx xxxxxx xxx xxxxX
+
+Xxx XxxxX XxxxXXxxxx
+
+XxxX XXXXXXXXXXXXXXXXXXXXXXXXX xxx xxxx
+
+XxxxxxxxX
+
+X Xxxxxx xxxx
+X Xxxxxxxx xxxxxx xxxx
+X Xxxx xxxxxxxxx
+X XxXXxxxx xxxxxxx
+X Xxxx xxxx xxx
+
+XxxxxxxxX
+
+X Xxx xxxxx
+X Xxxxxx xx Xxxxxx
+X Xxxxxxxx xx xxxxxx
+
+XxxxxxxxxX
+
+X XxxxxxxxXx Xxxxxx XxxxxxxxxX
+
+Xxxx XxxxxxxxX Xx xxxxxx
+
+Xxxxxxxx xxxxx xxxxX XXXXXXXXXXXX
+
+
+
+================================================================================
